@@ -1,6 +1,6 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "PrivateMe",
+	"title": "PrivateMe Leif Henning",
 	"icon": "https://micro.blog/Leffi/avatar.jpg",
 	"home_page_url": "https://post.privateme.no/",
 	"feed_url": "https://post.privateme.no/feed.json",
@@ -86,7 +86,7 @@
 				"id": "http://leffi.micro.blog/2025/03/17/great-visit-to-bandidos-had.html",
 				
 				"content_html": "<p>Great visit to Bandidos. Had a blast!!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Great visit to Bandidos. Had a blast!! \n\n<img src=\"https://post.privateme.no/uploads/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Great visit to Bandidos. Had a blast!! \n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-17T04:40:08+01:00",
 				"url": "https://post.privateme.no/2025/03/17/great-visit-to-bandidos-had.html"
 			},
