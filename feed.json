@@ -1,11 +1,119 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "PrivateMe Leif Henning",
+	"title": "PrivateMe Hub",
 	"icon": "https://micro.blog/Leffi/avatar.jpg",
 	"home_page_url": "https://post.privateme.no/",
 	"feed_url": "https://post.privateme.no/feed.json",
 	"items": [
 		
+			{
+				"id": "http://leffi.micro.blog/2025/03/26/never-let-anyone-dim-your.html",
+				
+				"content_html": "<p>Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive</p>\n",
+				"content_text": "Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive\n",
+				"date_published": "2025-03-26T15:48:15+01:00",
+				"url": "https://post.privateme.no/2025/03/26/never-let-anyone-dim-your.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/25/remember-when-people-face-difficulties.html",
+				
+				"content_html": "<p>💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication</p>\n",
+				"content_text": "💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication\n",
+				"date_published": "2025-03-25T23:31:34+01:00",
+				"url": "https://post.privateme.no/2025/03/25/remember-when-people-face-difficulties.html",
+				"tags": ["Remember"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/25/your-safety-matters-here-are.html",
+				
+				"content_html": "<p>🌟 Your safety matters! Here are a few tips to protect yourself from harm: trust your instincts, stay aware of your surroundings, and always have a plan. What’s your go-to safety tip? 💪 #StaySafe</p>\n",
+				"content_text": "🌟 Your safety matters! Here are a few tips to protect yourself from harm: trust your instincts, stay aware of your surroundings, and always have a plan. What’s your go-to safety tip? 💪 #StaySafe\n",
+				"date_published": "2025-03-25T18:12:35+01:00",
+				"url": "https://post.privateme.no/2025/03/25/your-safety-matters-here-are.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/25/do-i-have-to-go.html",
+				
+				"content_html": "<p>What to do? maybe just stay at w10? I do NOT now 🤔 Hate w11, or go linux?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What to do? maybe just stay at w10? I do NOT now 🤔 Hate w11, or go linux?\n\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114220125624858525\"><p>I've had a perfectly functioning Windows 10 desktop which Microsoft refuses to upgrade to Windows 11 for no valid reason. And with security updates ending soon, I explored options for a modern OS on my hardware. I hope it helps others in my shoes: <a href=\"https://www.youtube.com/watch?v=g-xV9dMTuX0\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=g-xV9dMTuX</span><span class=\"invisible\">0</span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114220125624858525\" class=\"u-in-reply-to\">https://social.lol/@techlore/114220125624858525</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-03-25T01:18:41+01:00",
+				"url": "https://post.privateme.no/2025/03/25/do-i-have-to-go.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/25/never-back-down-but-always.html",
+				
+				"content_html": "<p>Never back down, but always hold your head high! 💪✨ Embrace challenges with confidence and let your strength shine through!  #Motivation #StayStrong #Strong</p>\n",
+				"content_text": "Never back down, but always hold your head high! 💪✨ Embrace challenges with confidence and let your strength shine through!  #Motivation #StayStrong #Strong\n",
+				"date_published": "2025-03-25T01:04:32+01:00",
+				"url": "https://post.privateme.no/2025/03/25/never-back-down-but-always.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/24/hmmm-i-have-fa-and.html",
+				
+				"content_html": "<p>Hmmm&hellip;.. I have 2fa and security codes in Bitwarden, works quite well</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hmmm..... I have 2fa and security codes in Bitwarden, works quite well\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114203138700864322\"><p>For many years, people have asked me if it's safe to keep 2FA codes in the same place as your passwords. Here's my opinion on whether or not you should do it:<br><a href=\"https://youtu.be/xHEX6wWYgS0\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/xHEX6wWYgS0</span><span class=\"invisible\"></span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114203138700864322\" class=\"u-in-reply-to\">https://social.lol/@techlore/114203138700864322</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-03-24T21:19:50+01:00",
+				"url": "https://post.privateme.no/2025/03/24/hmmm-i-have-fa-and.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
+				"title": "Late Night",
+				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.privateme.no/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2025-03-24T05:05:14+01:00",
+				"url": "https://post.privateme.no/2025/03/24/late-night.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/24/want-to-read-the-power.html",
+				
+				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
+				"content_text": "Want to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
+				"date_published": "2025-03-24T02:24:52+01:00",
+				"url": "https://post.privateme.no/2025/03/24/want-to-read-the-power.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/23/when-youre-feeling-low-dont.html",
+				
+				"content_html": "<p>&ldquo;When you&rsquo;re feeling low, don&rsquo;t let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive&rdquo;</p>\n",
+				"content_text": "\"When you're feeling low, don't let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive\"\n",
+				"date_published": "2025-03-23T22:22:10+01:00",
+				"url": "https://post.privateme.no/2025/03/23/when-youre-feeling-low-dont.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/22/remember-no-matter-how-tough.html",
+				
+				"content_html": "<p>🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp</p>\n",
+				"content_text": "🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp\n",
+				"date_published": "2025-03-22T18:51:06+01:00",
+				"url": "https://post.privateme.no/2025/03/22/remember-no-matter-how-tough.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/22/all-i-want-is-to.html",
+				
+				"content_html": "<p>&ldquo;All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife&rdquo;</p>\n",
+				"content_text": "\"All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife\"\n",
+				"date_published": "2025-03-22T03:11:51+01:00",
+				"url": "https://post.privateme.no/2025/03/22/all-i-want-is-to.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/22/when-life-gets-tough-hold.html",
+				
+				"content_html": "<p>&ldquo;When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith&rdquo;</p>\n",
+				"content_text": "\"When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith\"\n",
+				"date_published": "2025-03-22T02:05:28+01:00",
+				"url": "https://post.privateme.no/2025/03/22/when-life-gets-tough-hold.html",
+				"tags": ["Remember"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/21/feeling-lost-remember-seeking-professional.html",
+				
+				"content_html": "<p>&ldquo;Feeling lost? Remember, seeking professional help is a brave step toward healing. You&rsquo;re not alone—there&rsquo;s always hope and support waiting for you. 💚 #MentalHealthMatters&rdquo;</p>\n",
+				"content_text": "\"Feeling lost? Remember, seeking professional help is a brave step toward healing. You're not alone—there's always hope and support waiting for you. 💚 #MentalHealthMatters\"\n",
+				"date_published": "2025-03-21T15:47:42+01:00",
+				"url": "https://post.privateme.no/2025/03/21/feeling-lost-remember-seeking-professional.html"
+			},
 			{
 				"id": "http://leffi.micro.blog/2025/03/19/can-we-just-be-ourselves.html",
 				
@@ -21,14 +129,6 @@
 				"content_text": "\"Looking to level up in life? 🌟 Start with small, consistent changes! Set goals, embrace learning, and surround yourself with positivity. What’s your next step? #LifeImprovement\"\n",
 				"date_published": "2025-03-19T02:05:24+01:00",
 				"url": "https://post.privateme.no/2025/03/19/looking-to-level-up-in.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/19/at-devils-choice.html",
-				
-				"content_html": "<p>At devils choice 🥳</p>\n<p><img src=\"https://post.privateme.no/uploads/2025/image-20250319-020308-96418f39.jpg\" alt=\"Devils choice \"></p>\n",
-				"content_text": "At devils choice 🥳\n\n![Devils choice ](https://post.privateme.no/uploads/2025/image-20250319-020308-96418f39.jpg)\n",
-				"date_published": "2025-03-19T02:03:12+01:00",
-				"url": "https://post.privateme.no/2025/03/19/at-devils-choice.html"
 			},
 			{
 				"id": "http://leffi.micro.blog/2025/03/19/resting-at-home-doing-nothing.html",
@@ -81,14 +181,6 @@
 				"date_published": "2025-03-17T16:29:14+01:00",
 				"url": "https://post.privateme.no/2025/03/17/rise-above-negativity-remember-you.html",
 				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/17/great-visit-to-bandidos-had.html",
-				
-				"content_html": "<p>Great visit to Bandidos. Had a blast!!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Great visit to Bandidos. Had a blast!! \n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/image.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-03-17T04:40:08+01:00",
-				"url": "https://post.privateme.no/2025/03/17/great-visit-to-bandidos-had.html"
 			},
 			{
 				"id": "http://leffi.micro.blog/2025/03/17/always-strive-to-be-your.html",
