@@ -1,17 +1,49 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "PrivateMe Hub",
-	"icon": "https://micro.blog/Leffi/avatar.jpg",
+	"icon": "https://micro.blog/AxlTheDude/avatar.jpg",
 	"home_page_url": "https://post.privateme.no/",
 	"feed_url": "https://post.privateme.no/feed.json",
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2025/03/30/been-many-late-nights-on.html",
+				
+				"content_html": "<p>Been many late nights on me lately&hellip; Urh, nerding out with the PC isn&rsquo;t good for the health 😏</p>\n",
+				"content_text": "Been many late nights on me lately... Urh, nerding out with the PC isn't good for the health 😏\n",
+				"date_published": "2025-03-30T23:37:42+02:00",
+				"url": "https://post.privateme.no/2025/03/30/been-many-late-nights-on.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/29/remember-its-okay-to-take.html",
+				
+				"content_html": "<p>Remember, it&rsquo;s okay to take time for yourself! 🧘‍♀️✨ Resting and recharging are essential for building strength. Prioritize your well-being! 💪❤️ #SelfCare #MentalHealth</p>\n",
+				"content_text": "Remember, it's okay to take time for yourself! 🧘‍♀️✨ Resting and recharging are essential for building strength. Prioritize your well-being! 💪❤️ #SelfCare #MentalHealth\n",
+				"date_published": "2025-03-29T20:49:34+02:00",
+				"url": "https://post.privateme.no/2025/03/29/remember-its-okay-to-take.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/27/ever-feel-completely-drained-but.html",
+				
+				"content_html": "<p>Ever feel completely drained but sleep just won’t come? 😩 It’s like my mind has its own agenda! How do you unwind when sleep plays hard to get? #InsomniaStruggles</p>\n",
+				"content_text": "Ever feel completely drained but sleep just won’t come? 😩 It’s like my mind has its own agenda! How do you unwind when sleep plays hard to get? #InsomniaStruggles\n",
+				"date_published": "2025-03-28T00:05:40+02:00",
+				"url": "https://post.privateme.no/2025/03/27/ever-feel-completely-drained-but.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/03/27/sometimes-solitude-is-the-best.html",
+				
+				"content_html": "<p>Sometimes, solitude is the best company! 🌿 Remember, self-love isn&rsquo;t selfish—it&rsquo;s essential. Take time for you and cherish your own vibe! ❤️ #SelfLove #MentalHealth</p>\n",
+				"content_text": "Sometimes, solitude is the best company! 🌿 Remember, self-love isn't selfish—it's essential. Take time for you and cherish your own vibe! ❤️ #SelfLove #MentalHealth\n",
+				"date_published": "2025-03-27T03:02:12+02:00",
+				"url": "https://post.privateme.no/2025/03/27/sometimes-solitude-is-the-best.html"
+			},
+			{
 				"id": "http://leffi.micro.blog/2025/03/26/never-let-anyone-dim-your.html",
 				
 				"content_html": "<p>Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive</p>\n",
 				"content_text": "Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive\n",
-				"date_published": "2025-03-26T15:48:15+01:00",
+				"date_published": "2025-03-26T16:48:15+02:00",
 				"url": "https://post.privateme.no/2025/03/26/never-let-anyone-dim-your.html"
 			},
 			{
@@ -19,7 +51,7 @@
 				
 				"content_html": "<p>💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication</p>\n",
 				"content_text": "💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication\n",
-				"date_published": "2025-03-25T23:31:34+01:00",
+				"date_published": "2025-03-26T00:31:34+02:00",
 				"url": "https://post.privateme.no/2025/03/25/remember-when-people-face-difficulties.html",
 				"tags": ["Remember"]
 			},
@@ -60,163 +92,9 @@
 				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.privateme.no/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-03-24T05:05:14+01:00",
 				"url": "https://post.privateme.no/2025/03/24/late-night.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/24/want-to-read-the-power.html",
-				
-				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
-				"content_text": "Want to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
-				"date_published": "2025-03-24T02:24:52+01:00",
-				"url": "https://post.privateme.no/2025/03/24/want-to-read-the-power.html",
-				"tags": ["Books"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/23/when-youre-feeling-low-dont.html",
-				
-				"content_html": "<p>&ldquo;When you&rsquo;re feeling low, don&rsquo;t let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive&rdquo;</p>\n",
-				"content_text": "\"When you're feeling low, don't let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive\"\n",
-				"date_published": "2025-03-23T22:22:10+01:00",
-				"url": "https://post.privateme.no/2025/03/23/when-youre-feeling-low-dont.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/22/remember-no-matter-how-tough.html",
-				
-				"content_html": "<p>🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp</p>\n",
-				"content_text": "🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp\n",
-				"date_published": "2025-03-22T18:51:06+01:00",
-				"url": "https://post.privateme.no/2025/03/22/remember-no-matter-how-tough.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/22/all-i-want-is-to.html",
-				
-				"content_html": "<p>&ldquo;All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife&rdquo;</p>\n",
-				"content_text": "\"All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife\"\n",
-				"date_published": "2025-03-22T03:11:51+01:00",
-				"url": "https://post.privateme.no/2025/03/22/all-i-want-is-to.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/22/when-life-gets-tough-hold.html",
-				
-				"content_html": "<p>&ldquo;When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith&rdquo;</p>\n",
-				"content_text": "\"When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith\"\n",
-				"date_published": "2025-03-22T02:05:28+01:00",
-				"url": "https://post.privateme.no/2025/03/22/when-life-gets-tough-hold.html",
-				"tags": ["Remember"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/21/feeling-lost-remember-seeking-professional.html",
-				
-				"content_html": "<p>&ldquo;Feeling lost? Remember, seeking professional help is a brave step toward healing. You&rsquo;re not alone—there&rsquo;s always hope and support waiting for you. 💚 #MentalHealthMatters&rdquo;</p>\n",
-				"content_text": "\"Feeling lost? Remember, seeking professional help is a brave step toward healing. You're not alone—there's always hope and support waiting for you. 💚 #MentalHealthMatters\"\n",
-				"date_published": "2025-03-21T15:47:42+01:00",
-				"url": "https://post.privateme.no/2025/03/21/feeling-lost-remember-seeking-professional.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/19/can-we-just-be-ourselves.html",
-				
-				"content_html": "<p>&ldquo;Can we just be ourselves without worrying about what others think? 🌈 Embrace your uniqueness and let your true colors shine! Who&rsquo;s with me? #BeYourself #Authenticity&rdquo;</p>\n",
-				"content_text": "\"Can we just be ourselves without worrying about what others think? 🌈 Embrace your uniqueness and let your true colors shine! Who's with me? #BeYourself #Authenticity\"\n",
-				"date_published": "2025-03-19T02:49:16+01:00",
-				"url": "https://post.privateme.no/2025/03/19/can-we-just-be-ourselves.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/19/looking-to-level-up-in.html",
-				
-				"content_html": "<p>&ldquo;Looking to level up in life? 🌟 Start with small, consistent changes! Set goals, embrace learning, and surround yourself with positivity. What’s your next step? #LifeImprovement&rdquo;</p>\n",
-				"content_text": "\"Looking to level up in life? 🌟 Start with small, consistent changes! Set goals, embrace learning, and surround yourself with positivity. What’s your next step? #LifeImprovement\"\n",
-				"date_published": "2025-03-19T02:05:24+01:00",
-				"url": "https://post.privateme.no/2025/03/19/looking-to-level-up-in.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/19/resting-at-home-doing-nothing.html",
-				
-				"content_html": "<p>Resting at home. Doing nothing</p>\n",
-				"content_text": "Resting at home. Doing nothing \n",
-				"date_published": "2025-03-19T02:00:22+01:00",
-				"url": "https://post.privateme.no/2025/03/19/resting-at-home-doing-nothing.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/19/ever-feel-like-just-stepping.html",
-				
-				"content_html": "<p>&ldquo;Ever feel like just stepping away from it all and embracing some solitude? 🌿✨ Sometimes, the best company is your own. #SelfCare #MeTime&rdquo;</p>\n",
-				"content_text": "\"Ever feel like just stepping away from it all and embracing some solitude? 🌿✨ Sometimes, the best company is your own. #SelfCare #MeTime\"\n",
-				"date_published": "2025-03-19T01:40:38+01:00",
-				"url": "https://post.privateme.no/2025/03/19/ever-feel-like-just-stepping.html"
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/18/every-day-is-a-new.html",
-				
-				"content_html": "<p>&ldquo;Every day is a new chance to shine! 🌟 I always strive to do my best, no matter the challenge. Let&rsquo;s keep pushing our limits together! 💪 #Motivation #DoYourBest&rdquo;</p>\n",
-				"content_text": "\"Every day is a new chance to shine! 🌟 I always strive to do my best, no matter the challenge. Let's keep pushing our limits together! 💪 #Motivation #DoYourBest\"\n",
-				"date_published": "2025-03-18T05:19:17+01:00",
-				"url": "https://post.privateme.no/2025/03/18/every-day-is-a-new.html",
-				"tags": ["Remember"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/18/stay-strong-and-believe-in.html",
-				
-				"content_html": "<p>&ldquo;Stay strong and believe in yourself! 💪 Don’t let others’ doubts bring you down. You’re capable of amazing things! Keep pushing forward! 🌟 #StayPositive #BelieveInYourself&rdquo;</p>\n",
-				"content_text": "\"Stay strong and believe in yourself! 💪 Don’t let others’ doubts bring you down. You’re capable of amazing things! Keep pushing forward! 🌟 #StayPositive #BelieveInYourself\"\n",
-				"date_published": "2025-03-18T04:04:09+01:00",
-				"url": "https://post.privateme.no/2025/03/18/stay-strong-and-believe-in.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/18/kindness-costs-nothing-but-means.html",
-				
-				"content_html": "<p>&ldquo;Kindness costs nothing but means everything! 💖 Let&rsquo;s spread positivity and lift each other up. A little kindness can change someone&rsquo;s day! #BeKind #SpreadLove&rdquo;</p>\n",
-				"content_text": "\"Kindness costs nothing but means everything! 💖 Let's spread positivity and lift each other up. A little kindness can change someone's day! #BeKind #SpreadLove\"\n",
-				"date_published": "2025-03-18T03:54:54+01:00",
-				"url": "https://post.privateme.no/2025/03/18/kindness-costs-nothing-but-means.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/17/rise-above-negativity-remember-you.html",
-				
-				"content_html": "<p>&ldquo;Rise above negativity! 🌟 Remember, you hold the power to define your worth. Never let anyone dim your shine. Keep shining bright! 💪✨ #SelfWorth #StayPositive&rdquo;</p>\n",
-				"content_text": "\"Rise above negativity! 🌟 Remember, you hold the power to define your worth. Never let anyone dim your shine. Keep shining bright! 💪✨ #SelfWorth #StayPositive\"\n",
-				"date_published": "2025-03-17T16:29:14+01:00",
-				"url": "https://post.privateme.no/2025/03/17/rise-above-negativity-remember-you.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/17/always-strive-to-be-your.html",
-				
-				"content_html": "<p>&ldquo;Always strive to be your best self! 🌟 Embrace growth, stay positive, and never stop learning. Your journey is unique—make it count! #SelfImprovement #Motivation&rdquo;</p>\n",
-				"content_text": "\"Always strive to be your best self! 🌟 Embrace growth, stay positive, and never stop learning. Your journey is unique—make it count! #SelfImprovement #Motivation\"\n",
-				"date_published": "2025-03-17T03:07:29+01:00",
-				"url": "https://post.privateme.no/2025/03/17/always-strive-to-be-your.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/17/unlock-the-power-of-pgp.html",
-				
-				"content_html": "<p>&ldquo;Unlock the power of PGP! 🔑 Use it for secure email communication and protecting sensitive files. Want to learn more? Check out this link <a href=\"https://www.openpgp.org/\">pgp emai</a>l #Cybersecurity #PGP&rdquo;</p>\n",
-				"content_text": "\"Unlock the power of PGP! 🔑 Use it for secure email communication and protecting sensitive files. Want to learn more? Check out this link [pgp emai](https://www.openpgp.org/)l #Cybersecurity #PGP\"\n",
-				"date_published": "2025-03-17T01:45:16+01:00",
-				"url": "https://post.privateme.no/2025/03/17/unlock-the-power-of-pgp.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/17/ready-to-boost-your-health.html",
-				
-				"content_html": "<p>&ldquo;Ready to boost your health? 🌱 Start with small changes: eat balanced meals, stay active, hydrate, and prioritize sleep. Your body will thank you! #HealthTips #WellnessJourney&rdquo;</p>\n",
-				"content_text": "\"Ready to boost your health? 🌱 Start with small changes: eat balanced meals, stay active, hydrate, and prioritize sleep. Your body will thank you! #HealthTips #WellnessJourney\"\n",
-				"date_published": "2025-03-17T00:30:54+01:00",
-				"url": "https://post.privateme.no/2025/03/17/ready-to-boost-your-health.html",
-				"tags": ["Quotes"]
-			},
-			{
-				"id": "http://leffi.micro.blog/2025/03/16/want-to-get-stronger-in.html",
-				
-				"content_html": "<p>&ldquo;Want to get stronger in life? 💪 Focus on growth, embrace challenges, and surround yourself with positivity. Every step forward is a victory! #Strength #PersonalGrowth&rdquo;</p>\n",
-				"content_text": "\"Want to get stronger in life? 💪 Focus on growth, embrace challenges, and surround yourself with positivity. Every step forward is a victory! #Strength #PersonalGrowth\"\n",
-				"date_published": "2025-03-16T23:11:46+01:00",
-				"url": "https://post.privateme.no/2025/03/16/want-to-get-stronger-in.html",
-				"tags": ["Quotes"]
 			}
 	]
 }
