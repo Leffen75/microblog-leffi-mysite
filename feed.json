@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2025/04/12/lol-poor-fox.html",
+				
+				"content_html": "<p>Lol, poor fox 🤣</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"uploads/2025/52215eb7e1.png\" alt=\"\">\n",
+				"date_published": "2025-04-12T18:31:32+02:00",
+				"url": "https://post.privateme.no/2025/04/12/lol-poor-fox.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/04/07/i-started-reading-the-holy.html",
+				
+				"content_html": "<p>I started reading: <a href=\"https://micro.blog/books/9783736801493\">The Holy Bible</a> by King James Version 📚</p>\n",
+				"content_text": "I started reading: [The Holy Bible](https://micro.blog/books/9783736801493) by King James Version 📚\n",
+				"date_published": "2025-04-07T04:22:13+02:00",
+				"url": "https://post.privateme.no/2025/04/07/i-started-reading-the-holy.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/04/07/late-night-again-good-night.html",
+				
+				"content_html": "<p>Late night again! Good night to ya all 💤😴 #latenight</p>\n",
+				"content_text": "Late night again! Good night to ya all 💤😴 #latenight\n",
+				"date_published": "2025-04-07T04:16:41+02:00",
+				"url": "https://post.privateme.no/2025/04/07/late-night-again-good-night.html"
+			},
+			{
 				"id": "http://leffi.micro.blog/2025/04/05/trust-is-like-glassonce-shattered.html",
 				
 				"content_html": "<p>Trust is like glass—once shattered, it&rsquo;s hard to piece back together. Why do some people break it? 🤔 #TrustIssues #LifeLessons</p>\n",
@@ -53,7 +78,7 @@
 				"id": "http://leffi.micro.blog/2025/04/03/164720.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Lol, good one 🤣</p>\n",
-				"content_text": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
+				"content_text": "<img src=\"uploads/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
 				"date_published": "2025-04-03T16:47:20+02:00",
 				"url": "https://post.privateme.no/2025/04/03/164720.html"
 			},
@@ -109,7 +134,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/brothers-in-name-just-an.html",
 				
 				"content_html": "<p>Brothers in name 😀 Just an (s) in the differences #brokenchains</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"uploads/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-01T04:18:08+02:00",
 				"url": "https://post.privateme.no/2025/04/01/brothers-in-name-just-an.html"
 			},
@@ -133,7 +158,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/had-a-great-day-at.html",
 				
 				"content_html": "<p>Had a great day at Broken Chains today, my MC club 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
+				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"uploads/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
 				"date_published": "2025-04-01T00:57:43+02:00",
 				"url": "https://post.privateme.no/2025/04/01/had-a-great-day-at.html"
 			},
@@ -223,7 +248,7 @@
 				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.privateme.no/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-03-24T06:05:14+02:00",
 				"url": "https://post.privateme.no/2025/03/24/late-night.html"
 			},
