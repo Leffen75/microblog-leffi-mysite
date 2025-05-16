@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2025/05/16/thats-so-true.html",
+				
+				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://post.privateme.no/uploads/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
+				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://post.privateme.no/uploads/2025/image-20250516-045016-688241db.jpg)\n",
+				"date_published": "2025-05-16T04:50:19+02:00",
+				"url": "https://post.privateme.no/2025/05/16/thats-so-true.html"
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/05/14/my-two-wonder-ful-boys.html",
+				
+				"content_html": "",
+				"content_text": "\n",
+				"date_published": "2025-05-14T22:10:58+02:00",
+				"url": "https://post.privateme.no/2025/05/14/my-two-wonder-ful-boys.html",
+				"tags": ["Pictures"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/05/14/life-shines-brighter-with-someone.html",
+				
+				"content_html": "<p>Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support</p>\n<p>A decorative black and white typography design reads &ldquo;Life is better with friends.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"uploads/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
+				"date_published": "2025-05-14T00:56:56+02:00",
+				"url": "https://post.privateme.no/2025/05/14/life-shines-brighter-with-someone.html",
+				"tags": ["Quotes","Pictures"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2025/05/11/lifes-too-short-to-live.html",
+				
+				"content_html": "<p>&ldquo;Life’s too short to live by anyone else’s rules. Chase your dreams, embrace your passions, and design your own happiness. Be unapologetically YOU. 🌟 #LiveYourLife #BeYourself #ChaseYourDreams&rdquo;</p>\n",
+				"content_text": "\"Life’s too short to live by anyone else’s rules. Chase your dreams, embrace your passions, and design your own happiness. Be unapologetically YOU. 🌟 #LiveYourLife #BeYourself #ChaseYourDreams\"\n",
+				"date_published": "2025-05-11T03:12:06+02:00",
+				"url": "https://post.privateme.no/2025/05/11/lifes-too-short-to-live.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://leffi.micro.blog/2025/05/10/lifes-too-short-for-negativity.html",
 				
 				"content_html": "<p>Life&rsquo;s too short for negativity! Let’s choose kindness and lift each other up instead. 🌟 Be better, not bitter. #KindnessMatters #BeTheChange</p>\n",
@@ -95,7 +130,7 @@
 				"id": "http://leffi.micro.blog/2025/04/19/happy-easter-mohahaha-easter-holyday.html",
 				
 				"content_html": "<p>Happy easter, Mohahaha #easter #holyday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"uploads/2025/6144e23688.png\" alt=\"\">\n",
+				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/6144e23688.png\" alt=\"\">\n",
 				"date_published": "2025-04-19T18:58:27+02:00",
 				"url": "https://post.privateme.no/2025/04/19/happy-easter-mohahaha-easter-holyday.html"
 			},
@@ -103,7 +138,7 @@
 				"id": "http://leffi.micro.blog/2025/04/12/lol-poor-fox.html",
 				
 				"content_html": "<p>Lol, poor fox 🤣</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"uploads/2025/52215eb7e1.png\" alt=\"\">\n",
+				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/52215eb7e1.png\" alt=\"\">\n",
 				"date_published": "2025-04-12T18:31:32+02:00",
 				"url": "https://post.privateme.no/2025/04/12/lol-poor-fox.html"
 			},
@@ -171,7 +206,7 @@
 				"id": "http://leffi.micro.blog/2025/04/03/164720.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Lol, good one 🤣</p>\n",
-				"content_text": "<img src=\"uploads/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
 				"date_published": "2025-04-03T16:47:20+02:00",
 				"url": "https://post.privateme.no/2025/04/03/164720.html"
 			},
@@ -227,7 +262,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/brothers-in-name-just-an.html",
 				
 				"content_html": "<p>Brothers in name 😀 Just an (s) in the differences #brokenchains</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"uploads/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-01T04:18:08+02:00",
 				"url": "https://post.privateme.no/2025/04/01/brothers-in-name-just-an.html"
 			},
@@ -251,7 +286,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/had-a-great-day-at.html",
 				
 				"content_html": "<p>Had a great day at Broken Chains today, my MC club 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"uploads/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
+				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
 				"date_published": "2025-04-01T00:57:43+02:00",
 				"url": "https://post.privateme.no/2025/04/01/had-a-great-day-at.html"
 			},
@@ -341,7 +376,7 @@
 				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.privateme.no/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.privateme.no/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-03-24T06:05:14+02:00",
 				"url": "https://post.privateme.no/2025/03/24/late-night.html"
 			},
