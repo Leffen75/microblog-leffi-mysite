@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2025/07/15/why-folders-are-killing-your.html",
+				"title": "Why Folders Are Killing Your Notes",
+				"content_html": "<p><a href=\"https://medium.com/@lucavettor/why-folders-are-killing-your-notes-and-what-to-do-instead-f830c3366d51\">Medium</a>\nWriten by <a href=\"https://medium.com/@lucavettor\">this dude</a>\nThe article argues against traditional folder-based note organization, advocating instead for a &ldquo;Data Lake&rdquo; approach combined with a flexible tagging (taxonomy) system. It explains why folders fail due to their rigid, linear structure, which can&rsquo;t accommodate the organic, complex, and chaotic nature of note-taking. Using the Cynefin framework, it clarifies that note-taking belongs to complex or chaotic domains where constraints are unknown or non-existent, making folders unsuitable. Instead, storing all notes in a single place (&ldquo;Data Lake&rdquo;) and organizing them with tags allows for better discovery, learning, and decision-making. The article also provides practical steps for implementing this system.</p>\n<p>Key Points</p>\n<ul>\n<li>Folders are limiting: They assume a clear, fixed structure which doesn&rsquo;t align with how notes and knowledge evolve organically.</li>\n<li>Cynefin framework: Notes belong to complex or chaotic domains with unknown or no fixed constraints, unsuitable for rigid folder systems.</li>\n<li>Data Lake approach: Store all notes in one centralized place without pre-sorting into folders.</li>\n<li>Tagging (taxonomy) system: Use multiple tags per note to flexibly organize and retrieve information based on themes or functions.</li>\n<li>Practical method: Write notes into an inbox folder, daily tag and move them to the Data Lake, and monthly refine tags by merging similar ones.</li>\n</ul>\n<p>This approach enhances knowledge accessibility and supports continuous learning and innovation.</p>",
+				"content_text": "[Medium](https://medium.com/@lucavettor/why-folders-are-killing-your-notes-and-what-to-do-instead-f830c3366d51)\nWriten by [this dude](https://medium.com/@lucavettor)\nThe article argues against traditional folder-based note organization, advocating instead for a \"Data Lake\" approach combined with a flexible tagging (taxonomy) system. It explains why folders fail due to their rigid, linear structure, which can't accommodate the organic, complex, and chaotic nature of note-taking. Using the Cynefin framework, it clarifies that note-taking belongs to complex or chaotic domains where constraints are unknown or non-existent, making folders unsuitable. Instead, storing all notes in a single place (\"Data Lake\") and organizing them with tags allows for better discovery, learning, and decision-making. The article also provides practical steps for implementing this system. <!--more-->\n\nKey Points\n\n- Folders are limiting: They assume a clear, fixed structure which doesn't align with how notes and knowledge evolve organically.\n- Cynefin framework: Notes belong to complex or chaotic domains with unknown or no fixed constraints, unsuitable for rigid folder systems.\n- Data Lake approach: Store all notes in one centralized place without pre-sorting into folders.\n- Tagging (taxonomy) system: Use multiple tags per note to flexibly organize and retrieve information based on themes or functions.\n- Practical method: Write notes into an inbox folder, daily tag and move them to the Data Lake, and monthly refine tags by merging similar ones.\n\nThis approach enhances knowledge accessibility and supports continuous learning and innovation.\n",
+				"date_published": "2025-07-15T18:32:39+02:00",
+				"url": "https://post.pvme.omg.lol/2025/07/15/why-folders-are-killing-your.html"
+			},
+			{
 				"id": "http://leffi.micro.blog/2025/07/15/interesting-article-about-note-taking.html",
 				
 				"content_html": "<p>Interesting article about note taking at <a href=\"https://medium.com/@nurullahakalin/how-i-take-notes-my-digital-note-taking-system-09bf9a6424ce\">Medium</a> #medium</p>\n",
@@ -115,8 +123,8 @@
 			{
 				"id": "http://leffi.micro.blog/2025/05/16/thats-so-true.html",
 				
-				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://post.pvme.omg.lol/uploads/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
-				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://post.pvme.omg.lol/uploads/2025/image-20250516-045016-688241db.jpg)\n",
+				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
+				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg)\n",
 				"date_published": "2025-05-16T04:50:19+02:00",
 				"url": "https://post.pvme.omg.lol/2025/05/16/thats-so-true.html"
 			},
@@ -124,7 +132,7 @@
 				"id": "http://leffi.micro.blog/2025/05/14/life-shines-brighter-with-someone.html",
 				
 				"content_html": "<p>Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support</p>\n<p>A decorative black and white typography design reads &ldquo;Life is better with friends.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"uploads/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
+				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
 				"date_published": "2025-05-14T00:56:56+02:00",
 				"url": "https://post.pvme.omg.lol/2025/05/14/life-shines-brighter-with-someone.html",
 				"tags": ["Quotes","Pictures"]
@@ -219,7 +227,7 @@
 				"id": "http://leffi.micro.blog/2025/04/19/happy-easter-mohahaha-easter-holyday.html",
 				
 				"content_html": "<p>Happy easter, Mohahaha #easter #holyday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"uploads/2025/6144e23688.png\" alt=\"\">\n",
+				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/6144e23688.png\" alt=\"\">\n",
 				"date_published": "2025-04-19T18:58:27+02:00",
 				"url": "https://post.pvme.omg.lol/2025/04/19/happy-easter-mohahaha-easter-holyday.html"
 			},
@@ -227,7 +235,7 @@
 				"id": "http://leffi.micro.blog/2025/04/12/lol-poor-fox.html",
 				
 				"content_html": "<p>Lol, poor fox 🤣</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"uploads/2025/52215eb7e1.png\" alt=\"\">\n",
+				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/52215eb7e1.png\" alt=\"\">\n",
 				"date_published": "2025-04-12T18:31:32+02:00",
 				"url": "https://post.pvme.omg.lol/2025/04/12/lol-poor-fox.html"
 			},
@@ -295,7 +303,7 @@
 				"id": "http://leffi.micro.blog/2025/04/03/lol-good-one.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Lol, good one 🤣</p>\n",
-				"content_text": "<img src=\"uploads/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
 				"date_published": "2025-04-03T16:47:20+02:00",
 				"url": "https://post.pvme.omg.lol/2025/04/03/lol-good-one.html"
 			},
@@ -351,7 +359,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/brothers-in-name-just-an.html",
 				
 				"content_html": "<p>Brothers in name 😀 Just an (s) in the differences #brokenchains</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"uploads/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-01T04:18:08+02:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/brothers-in-name-just-an.html"
 			},
@@ -375,7 +383,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/had-a-great-day-at.html",
 				
 				"content_html": "<p>Had a great day at Broken Chains today, my MC club 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"uploads/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
+				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
 				"date_published": "2025-04-01T00:57:43+02:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/had-a-great-day-at.html"
 			},
@@ -465,7 +473,7 @@
 				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.pvme.omg.lol/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-03-24T06:05:14+02:00",
 				"url": "https://post.pvme.omg.lol/2025/03/24/late-night.html"
 			},
