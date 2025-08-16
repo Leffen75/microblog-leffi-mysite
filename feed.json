@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2025/08/16/festival-at-konsmo-norway-fun.html",
+				
+				"content_html": "<p>Festival at Konsmo Norway 🥳🇳🇴 #fun #party</p>\n<p><img src=\"https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg\" alt=\"Havoc \"></p>\n",
+				"content_text": "Festival at Konsmo Norway 🥳🇳🇴 #fun #party \n\n![Havoc ](https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg)\n",
+				"date_published": "2025-08-16T16:24:44+02:00",
+				"url": "https://post.pvme.omg.lol/2025/08/16/festival-at-konsmo-norway-fun.html"
+			},
+			{
 				"id": "http://leffi.micro.blog/2025/07/15/why-folders-are-killing-your.html",
 				"title": "Why Folders Are Killing Your Notes",
 				"content_html": "<p><a href=\"https://medium.com/@lucavettor/why-folders-are-killing-your-notes-and-what-to-do-instead-f830c3366d51\">Medium</a>\nWriten by <a href=\"https://medium.com/@lucavettor\">this dude</a>\nThe article argues against traditional folder-based note organization, advocating instead for a &ldquo;Data Lake&rdquo; approach combined with a flexible tagging (taxonomy) system. It explains why folders fail due to their rigid, linear structure, which can&rsquo;t accommodate the organic, complex, and chaotic nature of note-taking. Using the Cynefin framework, it clarifies that note-taking belongs to complex or chaotic domains where constraints are unknown or non-existent, making folders unsuitable. Instead, storing all notes in a single place (&ldquo;Data Lake&rdquo;) and organizing them with tags allows for better discovery, learning, and decision-making. The article also provides practical steps for implementing this system.</p>\n<p>Key Points</p>\n<ul>\n<li>Folders are limiting: They assume a clear, fixed structure which doesn&rsquo;t align with how notes and knowledge evolve organically.</li>\n<li>Cynefin framework: Notes belong to complex or chaotic domains with unknown or no fixed constraints, unsuitable for rigid folder systems.</li>\n<li>Data Lake approach: Store all notes in one centralized place without pre-sorting into folders.</li>\n<li>Tagging (taxonomy) system: Use multiple tags per note to flexibly organize and retrieve information based on themes or functions.</li>\n<li>Practical method: Write notes into an inbox folder, daily tag and move them to the Data Lake, and monthly refine tags by merging similar ones.</li>\n</ul>\n<p>This approach enhances knowledge accessibility and supports continuous learning and innovation.</p>",
@@ -43,7 +51,7 @@
 				"id": "http://leffi.micro.blog/2025/06/06/some-of-you-on-microblog.html",
 				
 				"content_html": "<p>Some of you on microblog know how to get the reply text box back on my blog timeline?? #help</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some of you on microblog know how to get the reply text box back on my blog timeline?? #help\r\n\n\n<img src=\"uploads/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
+				"content_text": "Some of you on microblog know how to get the reply text box back on my blog timeline?? #help\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
 				"date_published": "2025-06-06T05:03:31+02:00",
 				"url": "https://post.pvme.omg.lol/2025/06/06/some-of-you-on-microblog.html"
 			},
