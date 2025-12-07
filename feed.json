@@ -1,7 +1,7 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "PrivateMe Hub",
-	"icon": "https://avatars.micro.blog/avatars/2025/31/1744297.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2025/38/1744297.jpg",
 	"home_page_url": "https://post.pvme.omg.lol/",
 	"feed_url": "https://post.pvme.omg.lol/feed.json",
 	"items": [
@@ -11,7 +11,7 @@
 				
 				"content_html": "<p>Festival at Konsmo Norway 🥳🇳🇴 #fun #party</p>\n<p><img src=\"https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg\" alt=\"Havoc \"></p>\n",
 				"content_text": "Festival at Konsmo Norway 🥳🇳🇴 #fun #party \n\n![Havoc ](https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg)\n",
-				"date_published": "2025-08-16T16:24:44+02:00",
+				"date_published": "2025-08-16T15:24:44+01:00",
 				"url": "https://post.pvme.omg.lol/2025/08/16/festival-at-konsmo-norway-fun.html"
 			},
 			{
@@ -19,7 +19,7 @@
 				"title": "Why Folders Are Killing Your Notes",
 				"content_html": "<p><a href=\"https://medium.com/@lucavettor/why-folders-are-killing-your-notes-and-what-to-do-instead-f830c3366d51\">Medium</a>\nWriten by <a href=\"https://medium.com/@lucavettor\">this dude</a>\nThe article argues against traditional folder-based note organization, advocating instead for a &ldquo;Data Lake&rdquo; approach combined with a flexible tagging (taxonomy) system. It explains why folders fail due to their rigid, linear structure, which can&rsquo;t accommodate the organic, complex, and chaotic nature of note-taking. Using the Cynefin framework, it clarifies that note-taking belongs to complex or chaotic domains where constraints are unknown or non-existent, making folders unsuitable. Instead, storing all notes in a single place (&ldquo;Data Lake&rdquo;) and organizing them with tags allows for better discovery, learning, and decision-making. The article also provides practical steps for implementing this system.</p>\n<p>Key Points</p>\n<ul>\n<li>Folders are limiting: They assume a clear, fixed structure which doesn&rsquo;t align with how notes and knowledge evolve organically.</li>\n<li>Cynefin framework: Notes belong to complex or chaotic domains with unknown or no fixed constraints, unsuitable for rigid folder systems.</li>\n<li>Data Lake approach: Store all notes in one centralized place without pre-sorting into folders.</li>\n<li>Tagging (taxonomy) system: Use multiple tags per note to flexibly organize and retrieve information based on themes or functions.</li>\n<li>Practical method: Write notes into an inbox folder, daily tag and move them to the Data Lake, and monthly refine tags by merging similar ones.</li>\n</ul>\n<p>This approach enhances knowledge accessibility and supports continuous learning and innovation.</p>",
 				"content_text": "[Medium](https://medium.com/@lucavettor/why-folders-are-killing-your-notes-and-what-to-do-instead-f830c3366d51)\nWriten by [this dude](https://medium.com/@lucavettor)\nThe article argues against traditional folder-based note organization, advocating instead for a \"Data Lake\" approach combined with a flexible tagging (taxonomy) system. It explains why folders fail due to their rigid, linear structure, which can't accommodate the organic, complex, and chaotic nature of note-taking. Using the Cynefin framework, it clarifies that note-taking belongs to complex or chaotic domains where constraints are unknown or non-existent, making folders unsuitable. Instead, storing all notes in a single place (\"Data Lake\") and organizing them with tags allows for better discovery, learning, and decision-making. The article also provides practical steps for implementing this system. <!--more-->\n\nKey Points\n\n- Folders are limiting: They assume a clear, fixed structure which doesn't align with how notes and knowledge evolve organically.\n- Cynefin framework: Notes belong to complex or chaotic domains with unknown or no fixed constraints, unsuitable for rigid folder systems.\n- Data Lake approach: Store all notes in one centralized place without pre-sorting into folders.\n- Tagging (taxonomy) system: Use multiple tags per note to flexibly organize and retrieve information based on themes or functions.\n- Practical method: Write notes into an inbox folder, daily tag and move them to the Data Lake, and monthly refine tags by merging similar ones.\n\nThis approach enhances knowledge accessibility and supports continuous learning and innovation.\n",
-				"date_published": "2025-07-15T18:32:39+02:00",
+				"date_published": "2025-07-15T17:32:39+01:00",
 				"url": "https://post.pvme.omg.lol/2025/07/15/why-folders-are-killing-your.html"
 			},
 			{
@@ -27,7 +27,7 @@
 				
 				"content_html": "<p>Interesting article about note taking at <a href=\"https://medium.com/@nurullahakalin/how-i-take-notes-my-digital-note-taking-system-09bf9a6424ce\">Medium</a> #medium</p>\n",
 				"content_text": "Interesting article about note taking at [Medium](https://medium.com/@nurullahakalin/how-i-take-notes-my-digital-note-taking-system-09bf9a6424ce) #medium\n",
-				"date_published": "2025-07-15T18:18:32+02:00",
+				"date_published": "2025-07-15T17:18:32+01:00",
 				"url": "https://post.pvme.omg.lol/2025/07/15/interesting-article-about-note-taking.html"
 			},
 			{
@@ -35,7 +35,7 @@
 				
 				"content_html": "<p>Sometimes I get SO tired of a needing family #sister #family #whanttobegone</p>\n",
 				"content_text": "Sometimes I get SO tired of a needing family #sister #family #whanttobegone\n",
-				"date_published": "2025-07-08T20:01:03+02:00",
+				"date_published": "2025-07-08T19:01:03+01:00",
 				"url": "https://post.pvme.omg.lol/2025/07/08/sometimes-i-get-so-tired.html"
 			},
 			{
@@ -43,7 +43,7 @@
 				
 				"content_html": "<p>Sometimes, it’s tough to keep your head held high. Remember, even the strongest faces challenges. Let’s lift each other up! 💪✨ #StayStrong #SupportEachOther</p>\n",
 				"content_text": "Sometimes, it’s tough to keep your head held high. Remember, even the strongest faces challenges. Let’s lift each other up! 💪✨ #StayStrong #SupportEachOther\n",
-				"date_published": "2025-06-29T17:26:30+02:00",
+				"date_published": "2025-06-29T16:26:30+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/29/sometimes-its-tough-to-keep.html",
 				"tags": ["Quotes"]
 			},
@@ -52,7 +52,7 @@
 				
 				"content_html": "<p>Some of you on microblog know how to get the reply text box back on my blog timeline?? #help</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
 				"content_text": "Some of you on microblog know how to get the reply text box back on my blog timeline?? #help\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
-				"date_published": "2025-06-06T05:03:31+02:00",
+				"date_published": "2025-06-06T04:03:31+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/06/some-of-you-on-microblog.html"
 			},
 			{
@@ -60,7 +60,7 @@
 				
 				"content_html": "<p>🌙✨ Up all night chasing dreams and making memories! Who else is burning the midnight oil? Let’s hear your late-night adventures! #NightOwl #DreamChasers</p>\n",
 				"content_text": "🌙✨ Up all night chasing dreams and making memories! Who else is burning the midnight oil? Let’s hear your late-night adventures! #NightOwl #DreamChasers\n",
-				"date_published": "2025-06-06T03:52:33+02:00",
+				"date_published": "2025-06-06T02:52:33+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/06/up-all-night-chasing-dreams.html"
 			},
 			{
@@ -68,7 +68,7 @@
 				
 				"content_html": "<p>Late night AGAIN!!! #cantgotobed</p>\n",
 				"content_text": "Late night AGAIN!!! #cantgotobed\n",
-				"date_published": "2025-06-06T02:25:24+02:00",
+				"date_published": "2025-06-06T01:25:24+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/06/late-night-again-cantgotobed.html"
 			},
 			{
@@ -76,7 +76,7 @@
 				
 				"content_html": "<p>Why don’t skeletons fight each other? They don’t have the guts! 🤣💀☠ #tosilly #lols #funny</p>\n",
 				"content_text": "Why don’t skeletons fight each other? They don’t have the guts! 🤣💀☠ #tosilly #lols #funny\n",
-				"date_published": "2025-06-05T01:50:18+02:00",
+				"date_published": "2025-06-05T00:50:18+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/05/why-dont-skeletons-fight-each.html"
 			},
 			{
@@ -84,7 +84,7 @@
 				
 				"content_html": "<p>Why did the scarecrow win an award? Because he was outstanding in his field! #dryjokes #funny #silly</p>\n",
 				"content_text": "Why did the scarecrow win an award? Because he was outstanding in his field! #dryjokes #funny #silly\n",
-				"date_published": "2025-06-05T01:43:22+02:00",
+				"date_published": "2025-06-05T00:43:22+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/05/why-did-the-scarecrow-win.html"
 			},
 			{
@@ -92,7 +92,7 @@
 				
 				"content_html": "<p>Why do ppl insist to be fools?? Oh well 😋 #fool #rare #weird</p>\n",
 				"content_text": "Why do ppl insist to be fools?? Oh well 😋 #fool #rare #weird \n",
-				"date_published": "2025-06-04T22:43:08+02:00",
+				"date_published": "2025-06-04T21:43:08+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/04/why-do-ppl-insist-to.html"
 			},
 			{
@@ -100,7 +100,7 @@
 				
 				"content_html": "<p>Instead of holding onto anger towards those who wrong you, choose to rise above. Let go, grow, and shine brighter! (I&rsquo;m trying to be better) 🌟 #Positivity #Forgiveness #GrowthMindset</p>\n",
 				"content_text": "Instead of holding onto anger towards those who wrong you, choose to rise above. Let go, grow, and shine brighter! (I'm trying to be better) 🌟 #Positivity #Forgiveness #GrowthMindset\n",
-				"date_published": "2025-06-04T03:26:43+02:00",
+				"date_published": "2025-06-04T02:26:43+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/04/instead-of-holding-onto-anger.html",
 				"tags": ["Quotes"]
 			},
@@ -109,7 +109,7 @@
 				
 				"content_html": "<p>Tired of people trying to push their agenda on me 😡 #tired #unforgiven #letdown</p>\n",
 				"content_text": "Tired of people trying to push their agenda on me 😡 #tired #unforgiven #letdown\n",
-				"date_published": "2025-06-04T03:01:48+02:00",
+				"date_published": "2025-06-04T02:01:48+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/04/tired-of-people-trying-to.html"
 			},
 			{
@@ -117,7 +117,7 @@
 				
 				"content_html": "<p>Been having a great time at Broken Chains today #mc #bikes #club</p>\n",
 				"content_text": "Been having a great time at Broken Chains today #mc #bikes #club\n",
-				"date_published": "2025-06-02T21:46:52+02:00",
+				"date_published": "2025-06-02T20:46:52+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/02/been-having-a-great-time.html"
 			},
 			{
@@ -125,7 +125,7 @@
 				
 				"content_html": "<p><a href=\"https://beige.party/@kimlockhartga/114515122884739136\">Post</a> by <a href=\"https://micro.blog/kimlockhartga@beige.party\">@kimlockhartga@beige.party</a></p>\n<blockquote>\n<p>This is unbelievable word salad. White House Keeps Vast Majority Of Trump Transcripts Secret | HuffPost Latest News.https://www.huffpost.com/entry/trump-secret-transcripts_n_6824fe20e4b021b5064adc84</p>\n</blockquote>\n",
 				"content_text": "[Post](https://beige.party/@kimlockhartga/114515122884739136) by [@kimlockhartga@beige.party](https://micro.blog/kimlockhartga@beige.party)\n\n> This is unbelievable word salad. White House Keeps Vast Majority Of Trump Transcripts Secret | HuffPost Latest News.https://www.huffpost.com/entry/trump-secret-transcripts_n_6824fe20e4b021b5064adc84\n",
-				"date_published": "2025-05-16T04:55:43+02:00",
+				"date_published": "2025-05-16T03:55:43+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/16/post-by-kimlockhartgabeigeparty-this-is.html"
 			},
 			{
@@ -133,7 +133,7 @@
 				
 				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
 				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg)\n",
-				"date_published": "2025-05-16T04:50:19+02:00",
+				"date_published": "2025-05-16T03:50:19+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/16/thats-so-true.html"
 			},
 			{
@@ -141,7 +141,7 @@
 				
 				"content_html": "<p>Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support</p>\n<p>A decorative black and white typography design reads &ldquo;Life is better with friends.&rdquo;</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
 				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
-				"date_published": "2025-05-14T00:56:56+02:00",
+				"date_published": "2025-05-13T23:56:56+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/14/life-shines-brighter-with-someone.html",
 				"tags": ["Quotes","Pictures"]
 			},
@@ -150,7 +150,7 @@
 				
 				"content_html": "<p>&ldquo;Life’s too short to live by anyone else’s rules. Chase your dreams, embrace your passions, and design your own happiness. Be unapologetically YOU. 🌟 #LiveYourLife #BeYourself #ChaseYourDreams&rdquo;</p>\n",
 				"content_text": "\"Life’s too short to live by anyone else’s rules. Chase your dreams, embrace your passions, and design your own happiness. Be unapologetically YOU. 🌟 #LiveYourLife #BeYourself #ChaseYourDreams\"\n",
-				"date_published": "2025-05-11T03:12:06+02:00",
+				"date_published": "2025-05-11T02:12:06+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/11/lifes-too-short-to-live.html",
 				"tags": ["Quotes"]
 			},
@@ -159,16 +159,16 @@
 				
 				"content_html": "<p>Life&rsquo;s too short for negativity! Let’s choose kindness and lift each other up instead. 🌟 Be better, not bitter. #KindnessMatters #BeTheChange</p>\n",
 				"content_text": "Life's too short for negativity! Let’s choose kindness and lift each other up instead. 🌟 Be better, not bitter. #KindnessMatters #BeTheChange\n",
-				"date_published": "2025-05-10T23:55:05+02:00",
+				"date_published": "2025-05-10T22:55:05+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/10/lifes-too-short-for-negativity.html",
 				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://leffi.micro.blog/2025/05/07/i-want-to-read-the.html",
 				
-				"content_html": "<p>I Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
-				"content_text": "I Want to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
-				"date_published": "2025-05-07T05:11:57+02:00",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780606352147/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>I Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780606352147/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI Want to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
+				"date_published": "2025-05-07T04:11:57+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/07/i-want-to-read-the.html"
 			},
 			{
@@ -176,7 +176,7 @@
 				
 				"content_html": "<p>Life can throw some tough challenges our way, but remember: resilience is key! 💪✨ Keep pushing forward and never back down. You&rsquo;ve got this! #Motivation #StayStrong</p>\n",
 				"content_text": "Life can throw some tough challenges our way, but remember: resilience is key! 💪✨ Keep pushing forward and never back down. You've got this! #Motivation #StayStrong\n",
-				"date_published": "2025-05-06T23:22:03+02:00",
+				"date_published": "2025-05-06T22:22:03+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/06/life-can-throw-some-tough.html",
 				"tags": ["Quotes"]
 			},
@@ -185,7 +185,7 @@
 				
 				"content_html": "<p>Embracing solitude today! 🌌 Sometimes, being al by my lonesome is the perfect way to recharge and find inspiration. What do you do when you need some alone time? #SelfCare</p>\n",
 				"content_text": "Embracing solitude today! 🌌 Sometimes, being al by my lonesome is the perfect way to recharge and find inspiration. What do you do when you need some alone time? #SelfCare\n",
-				"date_published": "2025-05-06T15:47:07+02:00",
+				"date_published": "2025-05-06T14:47:07+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/06/embracing-solitude-today-sometimes-being.html",
 				"tags": ["Quotes"]
 			},
@@ -194,7 +194,7 @@
 				"title": "Forbedre din psykiske helse og bli mer aktiv: En guide til å gå mer turer",
 				"content_html": "<p><a href=\"https://funny.weblog.lol/2025/05/forbedre-din-psykiske-helse-og-bli-mer-aktiv-en-guide-til-g-mer\">funny.weblog.lol/2025/05/f&hellip;</a></p>\n <p><img src=\"https://cdn.some.pics/funny/68177ce6a4eac.jpg\" alt=\"Health board\" title=\"Health board\" /></p>\n<p>Å ta vare på den psykiske helsen er like viktig som å ta vare på den fysiske helsen. En av de mest effektive måtene å forbedre den psykiske helsen på er gjennom fysisk aktivitet, spesielt ved å gå turer. I denne artikkelen vil vi utforske hvordan du kan forbedre din psykiske helse og bli mer aktiv i hverdagen ved å gå mer turer.</p> \n<h2>1. Forstå sammenhengen mellom fysisk aktivitet og psykisk helse</h2>\n<p>Forskning har vist at fysisk aktivitet kan ha en positiv innvirkning på den psykiske helsen. Når vi trener, frigjør kroppen endorfiner, som ofte kalles \"lykkehormoner\". Disse kjemikaliene kan bidra til å redusere stress, angst og depresjon. Regelmessig fysisk aktivitet kan også forbedre søvnkvaliteten, øke energinivået og styrke selvfølelsen.</p>\n<h2>2. Sett realistiske mål</h2>\n<p>Det første steget mot å bli mer aktiv er å sette realistiske og oppnåelige mål. Start med små mål, som å gå en tur i 10-15 minutter hver dag. Etter hvert som du blir mer komfortabel med å gå, kan du gradvis øke tiden og avstanden. Å ha konkrete mål kan hjelpe deg med å holde deg motivert og se fremgang over tid.</p>\n<h2>3. Finn din favoritt turplass</h2>\n<p>Å gå i vakre omgivelser kan gjøre turene mer hyggelige. Utforsk lokale parker, skogsområder eller kystlinjer. Finn steder som inspirerer deg og gir deg ro. Det kan også være lurt å variere rutene dine for å unngå monotoni og oppdage nye steder.</p>\n<h2>4. Inviter venner eller familie</h2>\n<p>Å gå tur sammen med venner eller familie kan gjøre opplevelsen mer sosial og motiverende. Du kan også bli med i lokale turgrupper eller delta i organiserte turer. Å dele opplevelsen med andre kan gi deg ekstra støtte og oppmuntring.</p>\n<h2>5. Lag en rutine</h2>\n<p>Innfør turene i din daglige rutine. Sett av tid i kalenderen din, akkurat som du ville gjort med andre viktige aktiviteter. Enten det er om morgenen, i lunsjpausen eller etter arbeid, finn et tidspunkt som passer for deg. Å gjøre det til en vane vil gjøre det lettere å holde seg til det.</p>\n<h2>6. Bruk teknologi til din fordel</h2>\n<p>Det finnes mange apper og enheter som kan hjelpe deg med å holde oversikt over turene dine. Bruk en aktivitetstracker eller en app på telefonen for å registrere avstand, tid og kalorier forbrent. Dette kan gi deg en følelse av prestasjon og motivasjon til å fortsette.</p>\n<h2>7. Lytt til musikk eller podcaster</h2>\n<p>Å ha noe å lytte til mens du går kan gjøre turene mer underholdende. Lag spillelister med favorittmusikken din, eller lytt til podcaster som interesserer deg. Dette kan gjøre tiden på turen mer givende og hjelpe deg med å fokusere mindre på anstrengelsen.</p>\n<h2>8. Praktiser meditasjon</h2>\n<p>Bruk turene som en mulighet til å praktisere meditasjon. Fokuser på omgivelsene dine, lydene rundt deg, og hvordan kroppen din føles mens du går. Dette kan bidra til å redusere stress og øke tilstedeværelsen i øyeblikket. Å være oppmerksom på naturen kan også gi deg en følelse av ro og velvære.</p>\n<h2>9. Vær snill mot deg selv</h2>\n<p>Det er viktig å huske at det er helt normalt å ha dager hvor motivasjonen er lav. Vær snill mot deg selv og ikke vær for hard mot deg selv hvis du ikke klarer å oppnå målene dine hver gang. Det viktigste er å fortsette å prøve og finne glede i prosessen.</p>\n<h2>10. Søk profesjonell hjelp om nødvendig</h2>\n<p>Hvis du opplever vedvarende symptomer på depresjon eller angst, kan det være nyttig å søke hjelp fra en profesjonell. Terapi kan gi deg verktøyene du trenger for å håndtere utfordringer og forbedre din psykiske helse.</p>\n<h2>Avslutning</h2>\n<p>Å forbedre din psykiske helse og bli mer aktiv gjennom turer er en prosess som tar tid og tålmodighet. Ved å sette realistiske mål, finne glede i naturen og være snill mot deg selv, kan du oppnå en bedre balanse i livet. Husk at selv små skritt mot en mer aktiv livsstil kan ha stor innvirkning på din psykiske helse. Så snør på deg skoene, kom deg ut, og nyt turene!</p>",
 				"content_text": " [funny.weblog.lol/2025/05/f...](https://funny.weblog.lol/2025/05/forbedre-din-psykiske-helse-og-bli-mer-aktiv-en-guide-til-g-mer) \n <p><img src=\"https://cdn.some.pics/funny/68177ce6a4eac.jpg\" alt=\"Health board\" title=\"Health board\" /></p>\n\n<p>Å ta vare på den psykiske helsen er like viktig som å ta vare på den fysiske helsen. En av de mest effektive måtene å forbedre den psykiske helsen på er gjennom fysisk aktivitet, spesielt ved å gå turer. I denne artikkelen vil vi utforske hvordan du kan forbedre din psykiske helse og bli mer aktiv i hverdagen ved å gå mer turer.</p> <!--more-->\n<h2>1. Forstå sammenhengen mellom fysisk aktivitet og psykisk helse</h2>\n<p>Forskning har vist at fysisk aktivitet kan ha en positiv innvirkning på den psykiske helsen. Når vi trener, frigjør kroppen endorfiner, som ofte kalles \"lykkehormoner\". Disse kjemikaliene kan bidra til å redusere stress, angst og depresjon. Regelmessig fysisk aktivitet kan også forbedre søvnkvaliteten, øke energinivået og styrke selvfølelsen.</p>\n<h2>2. Sett realistiske mål</h2>\n<p>Det første steget mot å bli mer aktiv er å sette realistiske og oppnåelige mål. Start med små mål, som å gå en tur i 10-15 minutter hver dag. Etter hvert som du blir mer komfortabel med å gå, kan du gradvis øke tiden og avstanden. Å ha konkrete mål kan hjelpe deg med å holde deg motivert og se fremgang over tid.</p>\n<h2>3. Finn din favoritt turplass</h2>\n<p>Å gå i vakre omgivelser kan gjøre turene mer hyggelige. Utforsk lokale parker, skogsområder eller kystlinjer. Finn steder som inspirerer deg og gir deg ro. Det kan også være lurt å variere rutene dine for å unngå monotoni og oppdage nye steder.</p>\n<h2>4. Inviter venner eller familie</h2>\n<p>Å gå tur sammen med venner eller familie kan gjøre opplevelsen mer sosial og motiverende. Du kan også bli med i lokale turgrupper eller delta i organiserte turer. Å dele opplevelsen med andre kan gi deg ekstra støtte og oppmuntring.</p>\n<h2>5. Lag en rutine</h2>\n<p>Innfør turene i din daglige rutine. Sett av tid i kalenderen din, akkurat som du ville gjort med andre viktige aktiviteter. Enten det er om morgenen, i lunsjpausen eller etter arbeid, finn et tidspunkt som passer for deg. Å gjøre det til en vane vil gjøre det lettere å holde seg til det.</p>\n<h2>6. Bruk teknologi til din fordel</h2>\n<p>Det finnes mange apper og enheter som kan hjelpe deg med å holde oversikt over turene dine. Bruk en aktivitetstracker eller en app på telefonen for å registrere avstand, tid og kalorier forbrent. Dette kan gi deg en følelse av prestasjon og motivasjon til å fortsette.</p>\n<h2>7. Lytt til musikk eller podcaster</h2>\n<p>Å ha noe å lytte til mens du går kan gjøre turene mer underholdende. Lag spillelister med favorittmusikken din, eller lytt til podcaster som interesserer deg. Dette kan gjøre tiden på turen mer givende og hjelpe deg med å fokusere mindre på anstrengelsen.</p>\n<h2>8. Praktiser meditasjon</h2>\n<p>Bruk turene som en mulighet til å praktisere meditasjon. Fokuser på omgivelsene dine, lydene rundt deg, og hvordan kroppen din føles mens du går. Dette kan bidra til å redusere stress og øke tilstedeværelsen i øyeblikket. Å være oppmerksom på naturen kan også gi deg en følelse av ro og velvære.</p>\n<h2>9. Vær snill mot deg selv</h2>\n<p>Det er viktig å huske at det er helt normalt å ha dager hvor motivasjonen er lav. Vær snill mot deg selv og ikke vær for hard mot deg selv hvis du ikke klarer å oppnå målene dine hver gang. Det viktigste er å fortsette å prøve og finne glede i prosessen.</p>\n<h2>10. Søk profesjonell hjelp om nødvendig</h2>\n<p>Hvis du opplever vedvarende symptomer på depresjon eller angst, kan det være nyttig å søke hjelp fra en profesjonell. Terapi kan gi deg verktøyene du trenger for å håndtere utfordringer og forbedre din psykiske helse.</p>\n<h2>Avslutning</h2>\n<p>Å forbedre din psykiske helse og bli mer aktiv gjennom turer er en prosess som tar tid og tålmodighet. Ved å sette realistiske mål, finne glede i naturen og være snill mot deg selv, kan du oppnå en bedre balanse i livet. Husk at selv små skritt mot en mer aktiv livsstil kan ha stor innvirkning på din psykiske helse. Så snør på deg skoene, kom deg ut, og nyt turene!</p>\n",
-				"date_published": "2025-05-04T16:44:39+02:00",
+				"date_published": "2025-05-04T15:44:39+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/04/forbedre-din-psykiske-helse-og.html"
 			},
 			{
@@ -202,7 +202,7 @@
 				
 				"content_html": "<p>&ldquo;Do not act as if you had ten thousand years to throw away. Death stands at your elbow. Be good for something while you live and it is in your power.&rdquo;</p>\n",
 				"content_text": "\"Do not act as if you had ten thousand years to throw away. Death stands at your elbow. Be good for something while you live and it is in your power.\"\n",
-				"date_published": "2025-05-02T23:21:12+02:00",
+				"date_published": "2025-05-02T22:21:12+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/02/do-not-act-as-if.html",
 				"tags": ["Quotes"]
 			},
@@ -211,7 +211,7 @@
 				
 				"content_html": "<p>Feeling down? Remember, brighter days are ahead! Surround yourself with friends who lift you up. 🌟 Let&rsquo;s make today a great one together! #Friendship #Positivity 😀😄😎🥰</p>\n",
 				"content_text": "Feeling down? Remember, brighter days are ahead! Surround yourself with friends who lift you up. 🌟 Let's make today a great one together! #Friendship #Positivity 😀😄😎🥰\n",
-				"date_published": "2025-04-24T17:27:15+02:00",
+				"date_published": "2025-04-24T16:27:15+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/24/feeling-down-remember-brighter-days.html",
 				"tags": ["Quotes"]
 			},
@@ -220,7 +220,7 @@
 				
 				"content_html": "<p><a href=\"https://mastodon.world/@MamasPinkyToe/114371851790153727\">Post</a> by <a href=\"https://micro.blog/MamasPinkyToe@mastodon.world\">@MamasPinkyToe@mastodon.world</a></p>\n<blockquote>\n<p>If a girl is named Muffy, it means she has a big muff. If a boy is named Dicky, it means he has a little dick. No, it&rsquo;s not fair.</p>\n</blockquote>\n",
 				"content_text": "[Post](https://mastodon.world/@MamasPinkyToe/114371851790153727) by [@MamasPinkyToe@mastodon.world](https://micro.blog/MamasPinkyToe@mastodon.world)\n\n> If a girl is named Muffy, it means she has a big muff. If a boy is named Dicky, it means he has a little dick. No, it's not fair.\n",
-				"date_published": "2025-04-20T21:14:58+02:00",
+				"date_published": "2025-04-20T20:14:58+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/20/post-by-mamaspinkytoemastodonworld-if-a.html"
 			},
 			{
@@ -228,7 +228,7 @@
 				
 				"content_html": "<p>Loneliness can feel like a heavy weight, but remember, it&rsquo;s okay to reach out. Connection is just a message away. 💬✨ #MentalHealthMatters #YouAreNotAlone</p>\n",
 				"content_text": "Loneliness can feel like a heavy weight, but remember, it's okay to reach out. Connection is just a message away. 💬✨ #MentalHealthMatters #YouAreNotAlone\n",
-				"date_published": "2025-04-19T19:05:58+02:00",
+				"date_published": "2025-04-19T18:05:58+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/19/loneliness-can-feel-like-a.html"
 			},
 			{
@@ -236,7 +236,7 @@
 				
 				"content_html": "<p>Happy easter, Mohahaha #easter #holyday</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/6144e23688.png\" alt=\"\">\n",
 				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/6144e23688.png\" alt=\"\">\n",
-				"date_published": "2025-04-19T18:58:27+02:00",
+				"date_published": "2025-04-19T17:58:27+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/19/happy-easter-mohahaha-easter-holyday.html"
 			},
 			{
@@ -244,15 +244,15 @@
 				
 				"content_html": "<p>Lol, poor fox 🤣</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/52215eb7e1.png\" alt=\"\">\n",
 				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/52215eb7e1.png\" alt=\"\">\n",
-				"date_published": "2025-04-12T18:31:32+02:00",
+				"date_published": "2025-04-12T17:31:32+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/12/lol-poor-fox.html"
 			},
 			{
 				"id": "http://leffi.micro.blog/2025/04/07/i-started-reading-the-holy.html",
 				
-				"content_html": "<p>I started reading: <a href=\"https://micro.blog/books/9783736801493\">The Holy Bible</a> by King James Version 📚</p>\n",
-				"content_text": "I started reading: [The Holy Bible](https://micro.blog/books/9783736801493) by King James Version 📚\n",
-				"date_published": "2025-04-07T04:22:13+02:00",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9783736801493/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>I started reading: <a href=\"https://micro.blog/books/9783736801493\">The Holy Bible</a> by King James Version 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9783736801493/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nI started reading: [The Holy Bible](https://micro.blog/books/9783736801493) by King James Version 📚\n",
+				"date_published": "2025-04-07T03:22:13+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/07/i-started-reading-the-holy.html",
 				"tags": ["Books"]
 			},
@@ -261,7 +261,7 @@
 				
 				"content_html": "<p>Late night again! Good night to ya all 💤😴 #latenight</p>\n",
 				"content_text": "Late night again! Good night to ya all 💤😴 #latenight\n",
-				"date_published": "2025-04-07T04:16:41+02:00",
+				"date_published": "2025-04-07T03:16:41+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/07/late-night-again-good-night.html"
 			},
 			{
@@ -269,7 +269,7 @@
 				
 				"content_html": "<p>Trust is like glass—once shattered, it&rsquo;s hard to piece back together. Why do some people break it? 🤔 #TrustIssues #LifeLessons</p>\n",
 				"content_text": "Trust is like glass—once shattered, it's hard to piece back together. Why do some people break it? 🤔 #TrustIssues #LifeLessons\n",
-				"date_published": "2025-04-05T01:35:37+02:00",
+				"date_published": "2025-04-05T00:35:37+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/05/trust-is-like-glassonce-shattered.html",
 				"tags": ["Lifehack"]
 			},
@@ -278,7 +278,7 @@
 				
 				"content_html": "<p>Not ANY sleep on me the night to today, sooooo tired #sleep #life</p>\n",
 				"content_text": "Not ANY sleep on me the night to today, sooooo tired #sleep #life\n",
-				"date_published": "2025-04-04T22:06:13+02:00",
+				"date_published": "2025-04-04T21:06:13+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/04/not-any-sleep-on-me.html",
 				"tags": ["Lifehack"]
 			},
@@ -287,7 +287,7 @@
 				
 				"content_html": "<p>Looking to improve your mental health? 🌈 Try practicing meditation, connecting with loved ones, and embracing self-care. Remember, it’s okay to ask for help! 💚 #MentalHealthMatter #life</p>\n",
 				"content_text": "Looking to improve your mental health? 🌈 Try practicing meditation, connecting with loved ones, and embracing self-care. Remember, it’s okay to ask for help! 💚 #MentalHealthMatter #life\n",
-				"date_published": "2025-04-04T05:12:27+02:00",
+				"date_published": "2025-04-04T04:12:27+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/04/looking-to-improve-your-mental.html",
 				"tags": ["Lifehack"]
 			},
@@ -296,7 +296,7 @@
 				
 				"content_html": "<p>Late nights always seem to have a way of creeping up on me. 🌙✨ Who else finds themselves awake when the world is fast asleep? #NightOwl #LateNightThoughts</p>\n",
 				"content_text": "Late nights always seem to have a way of creeping up on me. 🌙✨ Who else finds themselves awake when the world is fast asleep? #NightOwl #LateNightThoughts\n",
-				"date_published": "2025-04-04T03:13:07+02:00",
+				"date_published": "2025-04-04T02:13:07+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/04/late-nights-always-seem-to.html"
 			},
 			{
@@ -304,7 +304,7 @@
 				
 				"content_html": "<p>Why do people sometimes seem untrustworthy? 🤔 It&rsquo;s a reminder that actions speak louder than words. Let&rsquo;s strive for honesty and build a world of trust! #TrustIssues #Honesty</p>\n",
 				"content_text": "Why do people sometimes seem untrustworthy? 🤔 It's a reminder that actions speak louder than words. Let's strive for honesty and build a world of trust! #TrustIssues #Honesty\n",
-				"date_published": "2025-04-03T22:11:55+02:00",
+				"date_published": "2025-04-03T21:11:55+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/03/why-do-people-sometimes-seem.html"
 			},
 			{
@@ -312,7 +312,7 @@
 				
 				"content_html": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n<p>Lol, good one 🤣</p>\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
-				"date_published": "2025-04-03T16:47:20+02:00",
+				"date_published": "2025-04-03T15:47:20+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/03/lol-good-one.html"
 			},
 			{
@@ -320,7 +320,7 @@
 				
 				"content_html": "<p>I guess it will be a late night again on me today</p>\n",
 				"content_text": "I guess it will be a late night again on me today\n",
-				"date_published": "2025-04-02T23:34:55+02:00",
+				"date_published": "2025-04-02T22:34:55+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/02/i-guess-it-will-be.html"
 			},
 			{
@@ -328,7 +328,7 @@
 				
 				"content_html": "<p>Here’s to hoping tomorrow brings good vibes and new adventures! 🌟✨ What’s one thing you’re looking forward to? Let’s make it a great day! #PositiveVibes #dontLetAnyonePutYouDown</p>\n",
 				"content_text": "Here’s to hoping tomorrow brings good vibes and new adventures! 🌟✨ What’s one thing you’re looking forward to? Let’s make it a great day! #PositiveVibes #dontLetAnyonePutYouDown\n",
-				"date_published": "2025-04-02T03:01:55+02:00",
+				"date_published": "2025-04-02T02:01:55+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/02/heres-to-hoping-tomorrow-brings.html"
 			},
 			{
@@ -336,7 +336,7 @@
 				
 				"content_html": "<p><a href=\"https://pvme.status.lol/pvme/67ec60d984ef5\">pvme.status.lol/pvme/67ec&hellip;</a> \n📽️ Browsing <a href=\"https://www.youtube.com/watch?v=5LEXH5iBttQ\">10 Most Pointless Horror Movies Ever Made - YouTube</a>. Must see movies 😋</p>\n",
 				"content_text": " [pvme.status.lol/pvme/67ec...](https://pvme.status.lol/pvme/67ec60d984ef5) \r\n📽️ Browsing [10 Most Pointless Horror Movies Ever Made - YouTube](https://www.youtube.com/watch?v=5LEXH5iBttQ). Must see movies 😋\n",
-				"date_published": "2025-04-01T23:57:29+02:00",
+				"date_published": "2025-04-01T22:57:29+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/pvmestatuslolpvmeec-browsing-most-pointless-horror.html"
 			},
 			{
@@ -344,7 +344,7 @@
 				
 				"content_html": "<p><a href=\"https://pvme.status.lol/pvme/67ec1b4d29d54\">pvme.status.lol/pvme/67ec&hellip;</a> \n😋 Browsing <a href=\"https://www.productivitymashup.com/binge-watching\">Book: How to Stop Binge Watching and Start Living — Productivity Mashup</a>. Sounds interesting</p>\n",
 				"content_text": " [pvme.status.lol/pvme/67ec...](https://pvme.status.lol/pvme/67ec1b4d29d54) \r\n😋 Browsing [Book: How to Stop Binge Watching and Start Living — Productivity Mashup](https://www.productivitymashup.com/binge-watching). Sounds interesting\n",
-				"date_published": "2025-04-01T19:00:34+02:00",
+				"date_published": "2025-04-01T18:00:34+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/pvmestatuslolpvmeec-browsing-book-how-to.html"
 			},
 			{
@@ -352,7 +352,7 @@
 				
 				"content_html": "<p>Feeling a bit lazy today? How about a cozy movie night? 🎬🍿 Grab your favorite snacks and let&rsquo;s binge-watch together! What’s on your watchlist? #MovieNight</p>\n",
 				"content_text": "Feeling a bit lazy today? How about a cozy movie night? 🎬🍿 Grab your favorite snacks and let's binge-watch together! What’s on your watchlist? #MovieNight\n",
-				"date_published": "2025-04-01T17:30:34+02:00",
+				"date_published": "2025-04-01T16:30:34+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/feeling-a-bit-lazy-today.html"
 			},
 			{
@@ -360,7 +360,7 @@
 				
 				"content_html": "<p><a href=\"https://pvme.status.lol/pvme/67eb5642521f1\">pvme.status.lol/pvme/67eb&hellip;</a> \n😍 Browsing <a href=\"https://www.youtube.com/watch?v=WuZwdTQsDME\">5 Must-Try Alternatives to Gmail - YouTube</a>. Great vid, I use Proton 😁</p>\n",
 				"content_text": " [pvme.status.lol/pvme/67eb...](https://pvme.status.lol/pvme/67eb5642521f1) \r\n😍 Browsing [5 Must-Try Alternatives to Gmail - YouTube](https://www.youtube.com/watch?v=WuZwdTQsDME). Great vid, I use Proton 😁\n",
-				"date_published": "2025-04-01T05:00:17+02:00",
+				"date_published": "2025-04-01T04:00:17+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/050017.html"
 			},
 			{
@@ -368,7 +368,7 @@
 				
 				"content_html": "<p>Brothers in name 😀 Just an (s) in the differences #brokenchains</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2025-04-01T04:18:08+02:00",
+				"date_published": "2025-04-01T03:18:08+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/brothers-in-name-just-an.html"
 			},
 			{
@@ -376,7 +376,7 @@
 				
 				"content_html": "<p><a href=\"https://pvme.status.lol/pvme/67eb4513992fb\">pvme.status.lol/pvme/67eb&hellip;</a> \n😀 Browsing <a href=\"https://koofr.eu/blog/\">Home - Koofr blog</a>. file searching koofr</p>\n",
 				"content_text": " [pvme.status.lol/pvme/67eb...](https://pvme.status.lol/pvme/67eb4513992fb) \r\n😀 Browsing [Home - Koofr blog](https://koofr.eu/blog/). file searching koofr\n",
-				"date_published": "2025-04-01T03:46:18+02:00",
+				"date_published": "2025-04-01T02:46:18+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/pvmestatuslolpvmeeb-browsing-home-koofr-blog.html"
 			},
 			{
@@ -384,7 +384,7 @@
 				
 				"content_html": "<p>Dous Microblog have a webhook future? I want to add to MB when I add to omg.lol statuslog? <a href=\"http://micro.blog\">@micro.blog</a></p>\n",
 				"content_text": "Dous Microblog have a webhook future? I want to add to MB when I add to omg.lol statuslog? [@micro.blog](http://micro.blog) \n",
-				"date_published": "2025-04-01T03:05:35+02:00",
+				"date_published": "2025-04-01T02:05:35+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/dous-microblog-have-a-webhook.html"
 			},
 			{
@@ -392,7 +392,7 @@
 				
 				"content_html": "<p>Had a great day at Broken Chains today, my MC club 😎</p>\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
 				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
-				"date_published": "2025-04-01T00:57:43+02:00",
+				"date_published": "2025-03-31T23:57:43+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/had-a-great-day-at.html"
 			},
 			{
@@ -400,7 +400,7 @@
 				
 				"content_html": "<p>Been many late nights on me lately&hellip; Urh, nerding out with the PC isn&rsquo;t good for the health 😏</p>\n",
 				"content_text": "Been many late nights on me lately... Urh, nerding out with the PC isn't good for the health 😏\n",
-				"date_published": "2025-03-30T23:37:42+02:00",
+				"date_published": "2025-03-30T22:37:42+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/30/been-many-late-nights-on.html"
 			},
 			{
@@ -408,7 +408,7 @@
 				
 				"content_html": "<p>Remember, it&rsquo;s okay to take time for yourself! 🧘‍♀️✨ Resting and recharging are essential for building strength. Prioritize your well-being! 💪❤️ #SelfCare #MentalHealth</p>\n",
 				"content_text": "Remember, it's okay to take time for yourself! 🧘‍♀️✨ Resting and recharging are essential for building strength. Prioritize your well-being! 💪❤️ #SelfCare #MentalHealth\n",
-				"date_published": "2025-03-29T20:49:34+02:00",
+				"date_published": "2025-03-29T19:49:34+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/29/remember-its-okay-to-take.html"
 			},
 			{
@@ -416,7 +416,7 @@
 				
 				"content_html": "<p>Ever feel completely drained but sleep just won’t come? 😩 It’s like my mind has its own agenda! How do you unwind when sleep plays hard to get? #InsomniaStruggles</p>\n",
 				"content_text": "Ever feel completely drained but sleep just won’t come? 😩 It’s like my mind has its own agenda! How do you unwind when sleep plays hard to get? #InsomniaStruggles\n",
-				"date_published": "2025-03-28T00:05:40+02:00",
+				"date_published": "2025-03-27T23:05:40+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/28/ever-feel-completely-drained-but.html"
 			},
 			{
@@ -424,7 +424,7 @@
 				
 				"content_html": "<p>Sometimes, solitude is the best company! 🌿 Remember, self-love isn&rsquo;t selfish—it&rsquo;s essential. Take time for you and cherish your own vibe! ❤️ #SelfLove #MentalHealth</p>\n",
 				"content_text": "Sometimes, solitude is the best company! 🌿 Remember, self-love isn't selfish—it's essential. Take time for you and cherish your own vibe! ❤️ #SelfLove #MentalHealth\n",
-				"date_published": "2025-03-27T03:02:12+02:00",
+				"date_published": "2025-03-27T02:02:12+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/27/sometimes-solitude-is-the-best.html"
 			},
 			{
@@ -432,7 +432,7 @@
 				
 				"content_html": "<p>Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive</p>\n",
 				"content_text": "Never let anyone dim your shine! Remember, you are worth so much more than their negativity. Embrace your value and keep shining bright! 💪✨ #SelfWorth #StayPositive\n",
-				"date_published": "2025-03-26T16:48:15+02:00",
+				"date_published": "2025-03-26T15:48:15+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/26/never-let-anyone-dim-your.html"
 			},
 			{
@@ -440,7 +440,7 @@
 				
 				"content_html": "<p>💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication</p>\n",
 				"content_text": "💡 Remember, when people face difficulties, they may act irrationally. Stay clear and firm in your communication—it can make all the difference! How do you handle tough conversations? 🤝 #Empathy #Communication\n",
-				"date_published": "2025-03-26T00:31:34+02:00",
+				"date_published": "2025-03-25T23:31:34+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/26/remember-when-people-face-difficulties.html",
 				"tags": ["Remember"]
 			},
@@ -449,7 +449,7 @@
 				
 				"content_html": "<p>🌟 Your safety matters! Here are a few tips to protect yourself from harm: trust your instincts, stay aware of your surroundings, and always have a plan. What’s your go-to safety tip? 💪 #StaySafe</p>\n",
 				"content_text": "🌟 Your safety matters! Here are a few tips to protect yourself from harm: trust your instincts, stay aware of your surroundings, and always have a plan. What’s your go-to safety tip? 💪 #StaySafe\n",
-				"date_published": "2025-03-25T19:12:35+02:00",
+				"date_published": "2025-03-25T18:12:35+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/25/your-safety-matters-here-are.html"
 			},
 			{
@@ -457,7 +457,7 @@
 				
 				"content_html": "<p>What to do? maybe just stay at w10? I do NOT now 🤔 Hate w11, or go linux?</p>\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114220125624858525\"><p>I've had a perfectly functioning Windows 10 desktop which Microsoft refuses to upgrade to Windows 11 for no valid reason. And with security updates ending soon, I explored options for a modern OS on my hardware. I hope it helps others in my shoes: <a href=\"https://www.youtube.com/watch?v=g-xV9dMTuX0\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=g-xV9dMTuX</span><span class=\"invisible\">0</span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114220125624858525\" class=\"u-in-reply-to\">https://social.lol/@techlore/114220125624858525</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
 				"content_text": "What to do? maybe just stay at w10? I do NOT now 🤔 Hate w11, or go linux?\n\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114220125624858525\"><p>I've had a perfectly functioning Windows 10 desktop which Microsoft refuses to upgrade to Windows 11 for no valid reason. And with security updates ending soon, I explored options for a modern OS on my hardware. I hope it helps others in my shoes: <a href=\"https://www.youtube.com/watch?v=g-xV9dMTuX0\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=g-xV9dMTuX</span><span class=\"invisible\">0</span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114220125624858525\" class=\"u-in-reply-to\">https://social.lol/@techlore/114220125624858525</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2025-03-25T02:18:41+02:00",
+				"date_published": "2025-03-25T01:18:41+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/25/what-to-do-maybe-just.html"
 			},
 			{
@@ -465,7 +465,7 @@
 				
 				"content_html": "<p>Never back down, but always hold your head high! 💪✨ Embrace challenges with confidence and let your strength shine through!  #Motivation #StayStrong #Strong</p>\n",
 				"content_text": "Never back down, but always hold your head high! 💪✨ Embrace challenges with confidence and let your strength shine through!  #Motivation #StayStrong #Strong\n",
-				"date_published": "2025-03-25T02:04:32+02:00",
+				"date_published": "2025-03-25T01:04:32+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/25/never-back-down-but-always.html",
 				"tags": ["Quotes"]
 			},
@@ -474,7 +474,7 @@
 				
 				"content_html": "<p>Hmmm&hellip;.. I have 2fa and security codes in Bitwarden, works quite well</p>\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114203138700864322\"><p>For many years, people have asked me if it's safe to keep 2FA codes in the same place as your passwords. Here's my opinion on whether or not you should do it:<br><a href=\"https://youtu.be/xHEX6wWYgS0\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/xHEX6wWYgS0</span><span class=\"invisible\"></span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114203138700864322\" class=\"u-in-reply-to\">https://social.lol/@techlore/114203138700864322</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
 				"content_text": "Hmmm..... I have 2fa and security codes in Bitwarden, works quite well\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Techlore\" data-avatar=\"https://micro.blog/techlore@social.lol/avatar.jpg\" cite=\"https://social.lol/@techlore/114203138700864322\"><p>For many years, people have asked me if it's safe to keep 2FA codes in the same place as your passwords. Here's my opinion on whether or not you should do it:<br><a href=\"https://youtu.be/xHEX6wWYgS0\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/xHEX6wWYgS0</span><span class=\"invisible\"></span></a></p><footer>Techlore <cite><a href=\"https://social.lol/@techlore/114203138700864322\" class=\"u-in-reply-to\">https://social.lol/@techlore/114203138700864322</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
-				"date_published": "2025-03-24T22:19:50+02:00",
+				"date_published": "2025-03-24T21:19:50+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/24/hmmm-i-have-fa-and.html"
 			},
 			{
@@ -482,15 +482,15 @@
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio></p>\n<p><a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a></p>\n",
 				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
-				"date_published": "2025-03-24T06:05:14+02:00",
+				"date_published": "2025-03-24T05:05:14+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/24/late-night.html"
 			},
 			{
 				"id": "http://leffi.micro.blog/2025/03/24/want-to-read-the-power.html",
 				
-				"content_html": "<p>Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
-				"content_text": "Want to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
-				"date_published": "2025-03-24T03:24:52+02:00",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780606352147/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Want to read: <a href=\"https://micro.blog/books/9780606352147\">The Power of Habit: Why We Do What We Do in Life </a> by Charles Duhigg 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780606352147/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWant to read: [The Power of Habit: Why We Do What We Do in Life ](https://micro.blog/books/9780606352147) by Charles Duhigg 📚\n",
+				"date_published": "2025-03-24T02:24:52+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/24/want-to-read-the-power.html",
 				"tags": ["Books"]
 			},
@@ -499,7 +499,7 @@
 				
 				"content_html": "<p>&ldquo;When you&rsquo;re feeling low, don&rsquo;t let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive&rdquo;</p>\n",
 				"content_text": "\"When you're feeling low, don't let others add to the weight. Surround yourself with positivity and remember: your feelings matter! 🌟 #MentalHealth #StayPositive\"\n",
-				"date_published": "2025-03-23T23:22:10+02:00",
+				"date_published": "2025-03-23T22:22:10+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/23/when-youre-feeling-low-dont.html"
 			},
 			{
@@ -507,7 +507,7 @@
 				
 				"content_html": "<p>🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp</p>\n",
 				"content_text": "🌟 Remember, no matter how tough life gets, you have the strength to rise up again. Embrace resilience and let your spirit shine! 💪✨ #Strength #Resilience #NeverGiveUp\n",
-				"date_published": "2025-03-22T19:51:06+02:00",
+				"date_published": "2025-03-22T18:51:06+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/22/remember-no-matter-how-tough.html"
 			},
 			{
@@ -515,7 +515,7 @@
 				
 				"content_html": "<p>&ldquo;All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife&rdquo;</p>\n",
 				"content_text": "\"All I want is to live my life in peace! 🌟 Remember, don’t let anyone dim your light or bring you down. Embrace positivity and shine bright! ✨ #LiveYourBestLife\"\n",
-				"date_published": "2025-03-22T04:11:51+02:00",
+				"date_published": "2025-03-22T03:11:51+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/22/all-i-want-is-to.html"
 			},
 			{
@@ -523,7 +523,7 @@
 				
 				"content_html": "<p>&ldquo;When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith&rdquo;</p>\n",
 				"content_text": "\"When life gets tough, hold on tight! Remember, God is by your side, guiding you through every challenge. Trust in His plan and keep the faith. 🙏✨ #Hope #Faith\"\n",
-				"date_published": "2025-03-22T03:05:28+02:00",
+				"date_published": "2025-03-22T02:05:28+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/22/when-life-gets-tough-hold.html",
 				"tags": ["Remember"]
 			},
@@ -532,7 +532,7 @@
 				
 				"content_html": "<p>&ldquo;Feeling lost? Remember, seeking professional help is a brave step toward healing. You&rsquo;re not alone—there&rsquo;s always hope and support waiting for you. 💚 #MentalHealthMatters&rdquo;</p>\n",
 				"content_text": "\"Feeling lost? Remember, seeking professional help is a brave step toward healing. You're not alone—there's always hope and support waiting for you. 💚 #MentalHealthMatters\"\n",
-				"date_published": "2025-03-21T16:47:42+02:00",
+				"date_published": "2025-03-21T15:47:42+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/21/feeling-lost-remember-seeking-professional.html"
 			},
 			{
@@ -540,7 +540,7 @@
 				
 				"content_html": "<p>&ldquo;Can we just be ourselves without worrying about what others think? 🌈 Embrace your uniqueness and let your true colors shine! Who&rsquo;s with me? #BeYourself #Authenticity&rdquo;</p>\n",
 				"content_text": "\"Can we just be ourselves without worrying about what others think? 🌈 Embrace your uniqueness and let your true colors shine! Who's with me? #BeYourself #Authenticity\"\n",
-				"date_published": "2025-03-19T03:49:16+02:00",
+				"date_published": "2025-03-19T02:49:16+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/19/can-we-just-be-ourselves.html"
 			},
 			{
@@ -548,7 +548,7 @@
 				
 				"content_html": "<p>&ldquo;Looking to level up in life? 🌟 Start with small, consistent changes! Set goals, embrace learning, and surround yourself with positivity. What’s your next step? #LifeImprovement&rdquo;</p>\n",
 				"content_text": "\"Looking to level up in life? 🌟 Start with small, consistent changes! Set goals, embrace learning, and surround yourself with positivity. What’s your next step? #LifeImprovement\"\n",
-				"date_published": "2025-03-19T03:05:24+02:00",
+				"date_published": "2025-03-19T02:05:24+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/19/looking-to-level-up-in.html"
 			},
 			{
@@ -556,7 +556,7 @@
 				
 				"content_html": "<p>Resting at home. Doing nothing</p>\n",
 				"content_text": "Resting at home. Doing nothing \n",
-				"date_published": "2025-03-19T03:00:22+02:00",
+				"date_published": "2025-03-19T02:00:22+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/19/resting-at-home-doing-nothing.html"
 			},
 			{
@@ -564,7 +564,7 @@
 				
 				"content_html": "<p>&ldquo;Ever feel like just stepping away from it all and embracing some solitude? 🌿✨ Sometimes, the best company is your own. #SelfCare #MeTime&rdquo;</p>\n",
 				"content_text": "\"Ever feel like just stepping away from it all and embracing some solitude? 🌿✨ Sometimes, the best company is your own. #SelfCare #MeTime\"\n",
-				"date_published": "2025-03-19T02:40:38+02:00",
+				"date_published": "2025-03-19T01:40:38+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/19/ever-feel-like-just-stepping.html"
 			},
 			{
@@ -572,7 +572,7 @@
 				
 				"content_html": "<p>&ldquo;Every day is a new chance to shine! 🌟 I always strive to do my best, no matter the challenge. Let&rsquo;s keep pushing our limits together! 💪 #Motivation #DoYourBest&rdquo;</p>\n",
 				"content_text": "\"Every day is a new chance to shine! 🌟 I always strive to do my best, no matter the challenge. Let's keep pushing our limits together! 💪 #Motivation #DoYourBest\"\n",
-				"date_published": "2025-03-18T06:19:17+02:00",
+				"date_published": "2025-03-18T05:19:17+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/18/every-day-is-a-new.html",
 				"tags": ["Remember"]
 			},
@@ -581,7 +581,7 @@
 				
 				"content_html": "<p>&ldquo;Stay strong and believe in yourself! 💪 Don’t let others’ doubts bring you down. You’re capable of amazing things! Keep pushing forward! 🌟 #StayPositive #BelieveInYourself&rdquo;</p>\n",
 				"content_text": "\"Stay strong and believe in yourself! 💪 Don’t let others’ doubts bring you down. You’re capable of amazing things! Keep pushing forward! 🌟 #StayPositive #BelieveInYourself\"\n",
-				"date_published": "2025-03-18T05:04:09+02:00",
+				"date_published": "2025-03-18T04:04:09+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/18/stay-strong-and-believe-in.html",
 				"tags": ["Quotes"]
 			},
@@ -590,7 +590,7 @@
 				
 				"content_html": "<p>&ldquo;Kindness costs nothing but means everything! 💖 Let&rsquo;s spread positivity and lift each other up. A little kindness can change someone&rsquo;s day! #BeKind #SpreadLove&rdquo;</p>\n",
 				"content_text": "\"Kindness costs nothing but means everything! 💖 Let's spread positivity and lift each other up. A little kindness can change someone's day! #BeKind #SpreadLove\"\n",
-				"date_published": "2025-03-18T04:54:54+02:00",
+				"date_published": "2025-03-18T03:54:54+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/18/kindness-costs-nothing-but-means.html",
 				"tags": ["Quotes"]
 			},
@@ -599,7 +599,7 @@
 				
 				"content_html": "<p>&ldquo;Rise above negativity! 🌟 Remember, you hold the power to define your worth. Never let anyone dim your shine. Keep shining bright! 💪✨ #SelfWorth #StayPositive&rdquo;</p>\n",
 				"content_text": "\"Rise above negativity! 🌟 Remember, you hold the power to define your worth. Never let anyone dim your shine. Keep shining bright! 💪✨ #SelfWorth #StayPositive\"\n",
-				"date_published": "2025-03-17T17:29:14+02:00",
+				"date_published": "2025-03-17T16:29:14+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/17/rise-above-negativity-remember-you.html",
 				"tags": ["Quotes"]
 			},
@@ -608,7 +608,7 @@
 				
 				"content_html": "<p>&ldquo;Always strive to be your best self! 🌟 Embrace growth, stay positive, and never stop learning. Your journey is unique—make it count! #SelfImprovement #Motivation&rdquo;</p>\n",
 				"content_text": "\"Always strive to be your best self! 🌟 Embrace growth, stay positive, and never stop learning. Your journey is unique—make it count! #SelfImprovement #Motivation\"\n",
-				"date_published": "2025-03-17T04:07:29+02:00",
+				"date_published": "2025-03-17T03:07:29+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/17/always-strive-to-be-your.html",
 				"tags": ["Quotes"]
 			},
@@ -617,7 +617,7 @@
 				
 				"content_html": "<p>&ldquo;Unlock the power of PGP! 🔑 Use it for secure email communication and protecting sensitive files. Want to learn more? Check out this link <a href=\"https://www.openpgp.org/\">pgp emai</a>l #Cybersecurity #PGP&rdquo;</p>\n",
 				"content_text": "\"Unlock the power of PGP! 🔑 Use it for secure email communication and protecting sensitive files. Want to learn more? Check out this link [pgp emai](https://www.openpgp.org/)l #Cybersecurity #PGP\"\n",
-				"date_published": "2025-03-17T02:45:16+02:00",
+				"date_published": "2025-03-17T01:45:16+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/17/unlock-the-power-of-pgp.html",
 				"tags": ["Quotes"]
 			},
@@ -626,7 +626,7 @@
 				
 				"content_html": "<p>&ldquo;Ready to boost your health? 🌱 Start with small changes: eat balanced meals, stay active, hydrate, and prioritize sleep. Your body will thank you! #HealthTips #WellnessJourney&rdquo;</p>\n",
 				"content_text": "\"Ready to boost your health? 🌱 Start with small changes: eat balanced meals, stay active, hydrate, and prioritize sleep. Your body will thank you! #HealthTips #WellnessJourney\"\n",
-				"date_published": "2025-03-17T01:30:54+02:00",
+				"date_published": "2025-03-17T00:30:54+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/17/ready-to-boost-your-health.html",
 				"tags": ["Quotes"]
 			},
@@ -635,7 +635,7 @@
 				
 				"content_html": "<p>&ldquo;Want to get stronger in life? 💪 Focus on growth, embrace challenges, and surround yourself with positivity. Every step forward is a victory! #Strength #PersonalGrowth&rdquo;</p>\n",
 				"content_text": "\"Want to get stronger in life? 💪 Focus on growth, embrace challenges, and surround yourself with positivity. Every step forward is a victory! #Strength #PersonalGrowth\"\n",
-				"date_published": "2025-03-17T00:11:46+02:00",
+				"date_published": "2025-03-16T23:11:46+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/17/want-to-get-stronger-in.html",
 				"tags": ["Quotes"]
 			}
