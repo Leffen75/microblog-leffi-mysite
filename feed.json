@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://leffi.micro.blog/2026/03/03/kindness-costs-nothing-but-means.html",
+				
+				"content_html": "<p>Kindness costs nothing but means everything. 🌟 Let&rsquo;s spread positivity and lift each other up today! #BeKind #SpreadLove</p>\n",
+				"content_text": "Kindness costs nothing but means everything. 🌟 Let's spread positivity and lift each other up today! #BeKind #SpreadLove\n",
+				"date_published": "2026-03-03T03:40:17+01:00",
+				"url": "https://post.pvme.omg.lol/2026/03/03/kindness-costs-nothing-but-means.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://leffi.micro.blog/2026/02/27/embrace-your-uniqueness-remember-theres.html",
+				
+				"content_html": "<p>&ldquo;Embrace your uniqueness! 🌟 Remember, there&rsquo;s only one YOU in this vast universe. Celebrate what makes you special! #BeYourself #Uniqueness&rdquo;</p>\n",
+				"content_text": "\"Embrace your uniqueness! 🌟 Remember, there's only one YOU in this vast universe. Celebrate what makes you special! #BeYourself #Uniqueness\"\n",
+				"date_published": "2026-02-27T23:34:51+01:00",
+				"url": "https://post.pvme.omg.lol/2026/02/27/embrace-your-uniqueness-remember-theres.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://leffi.micro.blog/2026/02/27/this-is-a-classic-biblical.html",
 				
 				"content_html": "<p>This is a classic biblical engraving depicting <strong>Jonah and the Whale</strong> (from the Book of Jonah in the Bible). The black-and-white illustration shows a bearded man (Jonah) being cast onto the shore or cast out from the mouth of a enormous great fish (or whale), surrounded by turbulent, crashing ocean waves. The massive creature&rsquo;s body and tail are visible rising from the stormy seas. The style is consistent with <strong>19th-century biblical engravings</strong>, similar to the work of <strong>Gustave Doré</strong>, featuring dramatic contrast, detailed cross-hatching, and a stormy, atmospheric sky in the background. A small shell or object is visible in the foreground on the left.</p>\n<!-- raw HTML omitted -->\n",
@@ -52,7 +70,7 @@
 				"id": "http://leffi.micro.blog/2026/01/17/drawn-be-me-at-years.html",
 				
 				"content_html": "<p>Drawn by me at 15 years old 😀\n<!-- raw HTML omitted --> #youngme</p>\n",
-				"content_text": "Drawn by me at 15 years old 😀\n<img src=\"uploads/2026/9f201de2ca.png\" alt=\"\"> #youngme\n",
+				"content_text": "Drawn by me at 15 years old 😀\n<img src=\"https://cdn.uploads.micro.blog/213718/2026/9f201de2ca.png\" alt=\"\"> #youngme\n",
 				"date_published": "2026-01-17T23:22:44+01:00",
 				"url": "https://post.pvme.omg.lol/2026/01/17/drawn-be-me-at-years.html"
 			},
@@ -167,7 +185,7 @@
 				"id": "http://leffi.micro.blog/2025/12/08/lol-bad-cat-cat.html",
 				
 				"content_html": "<p>Lol. Bad cat 🤣🤣 #cat</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lol. Bad cat 🤣🤣 #cat\n\n<p><video controls=\"controls\" playsinline=\"playsinline\" src=\"https://post.pvme.omg.lol/uploads/2025/video-20251208-025755-542bb1fd.mp4\" width=\"576\" height=\"1024\" poster=\"https://post.pvme.omg.lol/uploads/2025/image-20251208-025806-b814b20a.jpg\" preload=\"none\"></video></p>\n",
+				"content_text": "Lol. Bad cat 🤣🤣 #cat\n\n<p><video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/213718/2025/video-20251208-025755-542bb1fd.mp4\" width=\"576\" height=\"1024\" poster=\"https://post.pvme.omg.lol/uploads/2025/image-20251208-025806-b814b20a.jpg\" preload=\"none\"></video></p>\n",
 				"date_published": "2025-12-08T02:58:08+01:00",
 				"url": "https://post.pvme.omg.lol/2025/12/08/lol-bad-cat-cat.html"
 			},
@@ -230,8 +248,8 @@
 			{
 				"id": "http://leffi.micro.blog/2025/08/16/festival-at-konsmo-norway-fun.html",
 				
-				"content_html": "<p>Festival at Konsmo Norway 🥳🇳🇴 #fun #party</p>\n<p><img src=\"https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg\" alt=\"Havoc \"></p>\n",
-				"content_text": "Festival at Konsmo Norway 🥳🇳🇴 #fun #party \n\n![Havoc ](https://post.pvme.omg.lol/uploads/2025/image-20250816-162433-3827edc6.jpg)\n",
+				"content_html": "<p>Festival at Konsmo Norway 🥳🇳🇴 #fun #party</p>\n<p><img src=\"https://cdn.uploads.micro.blog/213718/2025/image-20250816-162433-3827edc6.jpg\" alt=\"Havoc \"></p>\n",
+				"content_text": "Festival at Konsmo Norway 🥳🇳🇴 #fun #party \n\n![Havoc ](https://cdn.uploads.micro.blog/213718/2025/image-20250816-162433-3827edc6.jpg)\n",
 				"date_published": "2025-08-16T15:24:44+01:00",
 				"url": "https://post.pvme.omg.lol/2025/08/16/festival-at-konsmo-norway-fun.html"
 			},
@@ -272,7 +290,7 @@
 				"id": "http://leffi.micro.blog/2025/06/06/some-of-you-on-microblog.html",
 				
 				"content_html": "<p>Some of you on microblog know how to get the reply text box back on my blog timeline?? #help</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some of you on microblog know how to get the reply text box back on my blog timeline?? #help\r\n\n\n<img src=\"uploads/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
+				"content_text": "Some of you on microblog know how to get the reply text box back on my blog timeline?? #help\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/fireshot-capture-043micro.blogmicro.blog.png\" width=\"455\" height=\"246\" alt=\"\">\n",
 				"date_published": "2025-06-06T04:03:31+01:00",
 				"url": "https://post.pvme.omg.lol/2025/06/06/some-of-you-on-microblog.html"
 			},
@@ -352,8 +370,8 @@
 			{
 				"id": "http://leffi.micro.blog/2025/05/16/thats-so-true.html",
 				
-				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://post.pvme.omg.lol/uploads/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
-				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://post.pvme.omg.lol/uploads/2025/image-20250516-045016-688241db.jpg)\n",
+				"content_html": "<p>That’s so true ❤️👍🏼</p>\n<p><img src=\"https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg\" alt=\"\"></p>\n",
+				"content_text": "That’s so true ❤️👍🏼\n\n\n![](https://cdn.uploads.micro.blog/213718/2025/image-20250516-045016-688241db.jpg)\n",
 				"date_published": "2025-05-16T03:50:19+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/16/thats-so-true.html"
 			},
@@ -361,7 +379,7 @@
 				"id": "http://leffi.micro.blog/2025/05/14/life-shines-brighter-with-someone.html",
 				
 				"content_html": "<p>Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support</p>\n<p>A decorative black and white typography design reads &ldquo;Life is better with friends.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"uploads/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
+				"content_text": "Life shines brighter with someone by your side! 🌟 Surround yourself with those who uplift you and watch your world transform. Who makes your life better? 💛 #Friendship #Support\r\n\r\nA decorative black and white typography design reads \"Life is better with friends.\"\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/360-f-163913405-nl9wjlgdu1fdvr24t085wmiobmdce67h.jpg\" width=\"360\" height=\"360\" alt=\"\">\n",
 				"date_published": "2025-05-13T23:56:56+01:00",
 				"url": "https://post.pvme.omg.lol/2025/05/14/life-shines-brighter-with-someone.html",
 				"tags": ["Quotes","Pictures"]
@@ -456,7 +474,7 @@
 				"id": "http://leffi.micro.blog/2025/04/19/happy-easter-mohahaha-easter-holyday.html",
 				
 				"content_html": "<p>Happy easter, Mohahaha #easter #holyday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"uploads/2025/6144e23688.png\" alt=\"\">\n",
+				"content_text": "Happy easter, Mohahaha #easter #holyday\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/6144e23688.png\" alt=\"\">\n",
 				"date_published": "2025-04-19T17:58:27+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/19/happy-easter-mohahaha-easter-holyday.html"
 			},
@@ -464,7 +482,7 @@
 				"id": "http://leffi.micro.blog/2025/04/12/lol-poor-fox.html",
 				
 				"content_html": "<p>Lol, poor fox 🤣</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"uploads/2025/52215eb7e1.png\" alt=\"\">\n",
+				"content_text": "Lol, poor fox 🤣\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/52215eb7e1.png\" alt=\"\">\n",
 				"date_published": "2025-04-12T17:31:32+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/12/lol-poor-fox.html"
 			},
@@ -532,7 +550,7 @@
 				"id": "http://leffi.micro.blog/2025/04/03/lol-good-one.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Lol, good one 🤣</p>\n",
-				"content_text": "<img src=\"uploads/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/213718/2025/fec21229f2.png\" alt=\"\">\r\n\r\nLol, good one 🤣\n",
 				"date_published": "2025-04-03T15:47:20+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/03/lol-good-one.html"
 			},
@@ -588,7 +606,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/brothers-in-name-just-an.html",
 				
 				"content_html": "<p>Brothers in name 😀 Just an (s) in the differences #brokenchains</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"uploads/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Brothers in name 😀 Just an (s) in the differences #brokenchains\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/2025-02-11-19.45.36.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-01T03:18:08+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/brothers-in-name-just-an.html"
 			},
@@ -612,7 +630,7 @@
 				"id": "http://leffi.micro.blog/2025/04/01/had-a-great-day-at.html",
 				
 				"content_html": "<p>Had a great day at Broken Chains today, my MC club 😎</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"uploads/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
+				"content_text": "Had a great day at Broken Chains today, my MC club 😎\n\n<img src=\"https://cdn.uploads.micro.blog/213718/2025/riding-patch.png\" width=\"363\" height=\"393\" alt=\"\">\n",
 				"date_published": "2025-03-31T23:57:43+01:00",
 				"url": "https://post.pvme.omg.lol/2025/04/01/had-a-great-day-at.html"
 			},
@@ -702,7 +720,7 @@
 				"id": "http://leffi.micro.blog/2025/03/24/late-night.html",
 				"title": "Late Night",
 				"content_html": "<p>A very late night</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
-				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://post.pvme.omg.lol/uploads/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
+				"content_text": "A very late night\n\n<audio controls=\"controls\" src=\"https://cdn.uploads.micro.blog/213718/2025/audio.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://post.pvme.omg.lol/transcripts/2025/03/24/1991.html\" class=\"transcript_link\">Transcript</a>\n",
 				"date_published": "2025-03-24T05:05:14+01:00",
 				"url": "https://post.pvme.omg.lol/2025/03/24/late-night.html"
 			},
